@@ -1,0 +1,3593 @@
+[
+  {
+    "name": "北锣鼓巷-3",
+    "code": "GCB895Y",
+    "type": 2,
+    "lat": 39.94165,
+    "lng": 116.396717
+  },
+  {
+    "name": "北锣鼓巷-2",
+    "code": "GCB896J",
+    "type": 2,
+    "lat": 39.943617,
+    "lng": 116.396633
+  },
+  {
+    "name": "Bell and Drum tower 钟鼓楼",
+    "code": "GCB8AGX",
+    "type": 2,
+    "lat": 39.941033,
+    "lng": 116.38905
+  },
+  {
+    "name": "North moat 6# －北京记忆",
+    "code": "GC6WM1P",
+    "type": 2,
+    "lat": 39.9482,
+    "lng": 116.39925
+  },
+  {
+    "name": "Wanning Bridge 万宁桥",
+    "code": "GCB8D36",
+    "type": 2,
+    "lat": 39.934917,
+    "lng": 116.390267
+  },
+  {
+    "name": "Says Who?",
+    "code": "GCC018",
+    "type": 4,
+    "lat": 39.944483,
+    "lng": 116.408283
+  },
+  {
+    "name": "Wisdom and knowledge",
+    "code": "GC7HT0Q",
+    "type": 137,
+    "lat": 39.9458,
+    "lng": 116.40795
+  },
+  {
+    "name": "Lexicon",
+    "code": "GC7YTTG",
+    "type": 8,
+    "lat": 39.9347,
+    "lng": 116.386833
+  },
+  {
+    "name": "Beixinqiao 北新桥",
+    "code": "GCB8AH1",
+    "type": 2,
+    "lat": 39.93985,
+    "lng": 116.41035
+  },
+  {
+    "name": "Cinderella",
+    "code": "GC7FJ22",
+    "type": 8,
+    "lat": 39.938867,
+    "lng": 116.382883
+  },
+  {
+    "name": "Dazang Longhua Temple 大藏龙华寺",
+    "code": "GC6JXK9",
+    "type": 2,
+    "lat": 39.94105,
+    "lng": 116.381666666667
+  },
+  {
+    "name": "滨河公园",
+    "code": "GC9N2ZP",
+    "type": 8,
+    "lat": 39.948533,
+    "lng": 116.384217
+  },
+  {
+    "name": "Certified by Guinness!",
+    "code": "GCC01B",
+    "type": 4,
+    "lat": 39.947267,
+    "lng": 116.410833
+  },
+  {
+    "name": "青年湖Youth Lake Park",
+    "code": "GC9NM09",
+    "type": 2,
+    "lat": 39.95405,
+    "lng": 116.399683
+  },
+  {
+    "name": "地坛3",
+    "code": "GC9NM0F",
+    "type": 2,
+    "lat": 39.951217,
+    "lng": 116.408067
+  },
+  {
+    "name": "Come to Shichahai.Feel Old Beijing",
+    "code": "GC4RA6D",
+    "type": 3,
+    "lat": 39.93215,
+    "lng": 116.3836
+  },
+  {
+    "name": "The northern moat - 浮游Planktons",
+    "code": "GCB813R",
+    "type": 2,
+    "lat": 39.94865,
+    "lng": 116.4123
+  },
+  {
+    "name": "Temple of the Earth 地坛",
+    "code": "GCB869G",
+    "type": 2,
+    "lat": 39.952817,
+    "lng": 116.408033
+  },
+  {
+    "name": "Prince Kung's(gong's) Mansion",
+    "code": "GCAHCQC",
+    "type": 137,
+    "lat": 39.9353,
+    "lng": 116.380117
+  },
+  {
+    "name": "Window of Opportunity - Reload",
+    "code": "GCB87TN",
+    "type": 2,
+    "lat": 39.946133,
+    "lng": 116.414383
+  },
+  {
+    "name": "内九外七之德胜门",
+    "code": "GC9H4G5",
+    "type": 2,
+    "lat": 39.947233,
+    "lng": 116.379033
+  },
+  {
+    "name": "The Sea of Ditan 地坛的海",
+    "code": "GCB814D",
+    "type": 2,
+    "lat": 39.952483,
+    "lng": 116.411317
+  },
+  {
+    "name": "地坛 - 好朋友树",
+    "code": "GCB814Z",
+    "type": 2,
+    "lat": 39.9543166666667,
+    "lng": 116.408983333333
+  },
+  {
+    "name": "The Nine Dragons",
+    "code": "GC5KKJB",
+    "type": 2,
+    "lat": 39.930217,
+    "lng": 116.381467
+  },
+  {
+    "name": "Not On The Tree, Not On The Ground",
+    "code": "GC4FQ3P",
+    "type": 2,
+    "lat": 39.958533,
+    "lng": 116.39705
+  },
+  {
+    "name": "Gate -- Jingshan Park",
+    "code": "GC6XV55",
+    "type": 2,
+    "lat": 39.925317,
+    "lng": 116.38965
+  },
+  {
+    "name": "Astringent word 1#",
+    "code": "GC7J9ZT",
+    "type": 8,
+    "lat": 39.9275,
+    "lng": 116.381667
+  },
+  {
+    "name": "柳荫公园LiuYin Park",
+    "code": "GC9N304",
+    "type": 2,
+    "lat": 39.959795,
+    "lng": 116.393948333333
+  },
+  {
+    "name": "North moat 2#",
+    "code": "GC6WBD7",
+    "type": 2,
+    "lat": 39.94885,
+    "lng": 116.419033
+  },
+  {
+    "name": "999",
+    "code": "GC8001K",
+    "type": 8,
+    "lat": 39.923583,
+    "lng": 116.3905
+  },
+  {
+    "name": "Hundred years of glory 19190504-20190504",
+    "code": "GC5QD7J",
+    "type": 2,
+    "lat": 39.9230333333333,
+    "lng": 116.398533333333
+  },
+  {
+    "name": "Something from Nothing 1",
+    "code": "GCB7YMC",
+    "type": 8,
+    "lat": 39.923417,
+    "lng": 116.39055
+  },
+  {
+    "name": "Wanchun Pavilion 万春亭",
+    "code": "GC7B67Y",
+    "type": 4,
+    "lat": 39.92336,
+    "lng": 116.390517
+  },
+  {
+    "name": "Dongmei Garden 东美园",
+    "code": "GCB86B5",
+    "type": 2,
+    "lat": 39.923517,
+    "lng": 116.4041
+  },
+  {
+    "name": "Mei Langfang Memorial Hall 梅兰芳纪念馆",
+    "code": "GC6TRVZ",
+    "type": 2,
+    "lat": 39.934,
+    "lng": 116.373367
+  },
+  {
+    "name": "Hillside -- Jingshan Park",
+    "code": "GC6XV58",
+    "type": 2,
+    "lat": 39.923167,
+    "lng": 116.38835
+  },
+  {
+    "name": "Overlooking Beihai",
+    "code": "GC2RAQ9",
+    "type": 2,
+    "lat": 39.92505,
+    "lng": 116.38305
+  },
+  {
+    "name": "Behind Fishers",
+    "code": "GC6TD5W",
+    "type": 2,
+    "lat": 39.94425,
+    "lng": 116.370917
+  },
+  {
+    "name": "失落的宝藏 -- The Lost Treasure",
+    "code": "GC6JG9F",
+    "type": 1858,
+    "lat": 39.922183,
+    "lng": 116.3905
+  },
+  {
+    "name": "人定湖公园RenDing Lake Park",
+    "code": "GC9N2Z7",
+    "type": 8,
+    "lat": 39.956933,
+    "lng": 116.379433
+  },
+  {
+    "name": "North moat 1#",
+    "code": "GC6WBCN",
+    "type": 2,
+    "lat": 39.9486166666667,
+    "lng": 116.421633333333
+  },
+  {
+    "name": "燕京八景2＃－琼岛春荫",
+    "code": "GC6ZDWA",
+    "type": 8,
+    "lat": 39.921083,
+    "lng": 116.394833
+  },
+  {
+    "name": "Nothing is here 2",
+    "code": "GC88898",
+    "type": 8,
+    "lat": 39.921417,
+    "lng": 116.389167
+  },
+  {
+    "name": "燕京八景5＃－西山晴雪",
+    "code": "GC7J03P",
+    "type": 8,
+    "lat": 39.920917,
+    "lng": 116.3906
+  },
+  {
+    "name": "Scholar's Holes",
+    "code": "GC7HTMV",
+    "type": 137,
+    "lat": 39.920317,
+    "lng": 116.393833
+  },
+  {
+    "name": "西黄寺",
+    "code": "GC9N2YK",
+    "type": 8,
+    "lat": 39.96185,
+    "lng": 116.3841
+  },
+  {
+    "name": "燕京八景1＃－太液秋风",
+    "code": "GC6ZDVR",
+    "type": 8,
+    "lat": 39.920833,
+    "lng": 116.386167
+  },
+  {
+    "name": "Case Closed",
+    "code": "GCBFF1",
+    "type": 4,
+    "lat": 39.918417,
+    "lng": 116.3897
+  },
+  {
+    "name": "燕京八景6＃－玉泉趵突",
+    "code": "GC6ZDXP",
+    "type": 8,
+    "lat": 39.917083,
+    "lng": 116.395
+  },
+  {
+    "name": "Weathering in the Forbidden City 🇨🇳",
+    "code": "GCAZ12J",
+    "type": 137,
+    "lat": 39.9174,
+    "lng": 116.390767
+  },
+  {
+    "name": "Clouds-Dragon Stone Carving 云龙石雕 — GE9",
+    "code": "GC7JBD3",
+    "type": 137,
+    "lat": 39.917133,
+    "lng": 116.390767
+  },
+  {
+    "name": "Guangyi Pen Repair Shop 广义修笔店",
+    "code": "GCB87XJ",
+    "type": 2,
+    "lat": 39.91925,
+    "lng": 116.41145
+  },
+  {
+    "name": "Yakaenda aliyeingia wanalima?",
+    "code": "GC71C4T",
+    "type": 8,
+    "lat": 39.91645,
+    "lng": 116.3907
+  },
+  {
+    "name": "A Spoiler Too Aged",
+    "code": "GC6V3A1",
+    "type": 8,
+    "lat": 39.915883,
+    "lng": 116.3908
+  },
+  {
+    "name": "燕京八景4＃－蓟门烟树",
+    "code": "GC6ZEW5",
+    "type": 8,
+    "lat": 39.916667,
+    "lng": 116.38625
+  },
+  {
+    "name": "Beijing Rickshaw",
+    "code": "GCA20A",
+    "type": 4,
+    "lat": 39.913667,
+    "lng": 116.405083
+  },
+  {
+    "name": "燕京八景8＃－居庸叠翠",
+    "code": "GC6ZDYY",
+    "type": 8,
+    "lat": 39.9125,
+    "lng": 116.395167
+  },
+  {
+    "name": "A Geocache in Heaven",
+    "code": "GC86J96",
+    "type": 8,
+    "lat": 39.914967,
+    "lng": 116.381267
+  },
+  {
+    "name": "燕京八景3＃－金台夕照",
+    "code": "GC6ZEVT",
+    "type": 8,
+    "lat": 39.912167,
+    "lng": 116.391167
+  },
+  {
+    "name": "Wangfujing-Toyyys",
+    "code": "GCB7DH1",
+    "type": 2,
+    "lat": 39.9121,
+    "lng": 116.403
+  },
+  {
+    "name": "Geological Museum of China(地质博物馆) - Y#74",
+    "code": "GC5A7J0",
+    "type": 8,
+    "lat": 39.92225,
+    "lng": 116.366667
+  },
+  {
+    "name": "The Altar of Land and Grain-Zhongshan Park社稷坛-中山公园",
+    "code": "GCB8D34",
+    "type": 2,
+    "lat": 39.911583,
+    "lng": 116.3897
+  },
+  {
+    "name": "燕京八景7＃－卢沟晓月",
+    "code": "GC6ZEWE",
+    "type": 8,
+    "lat": 39.912083,
+    "lng": 116.3865
+  },
+  {
+    "name": "A very good garden - Xin（双秀公园 - 新）",
+    "code": "GC759PY",
+    "type": 2,
+    "lat": 39.964233,
+    "lng": 116.36955
+  },
+  {
+    "name": "地铁车辆段",
+    "code": "GCA2Q71",
+    "type": 2,
+    "lat": 39.947333,
+    "lng": 116.35735
+  },
+  {
+    "name": "美丽的铁栅栏Beautiful fence",
+    "code": "GCA361R",
+    "type": 2,
+    "lat": 39.910183,
+    "lng": 116.402633
+  },
+  {
+    "name": "玫瑰园rose garden",
+    "code": "GC9NBY1",
+    "type": 8,
+    "lat": 39.9690833333333,
+    "lng": 116.37565
+  },
+  {
+    "name": "A very good garden - Tai（双秀公园 - 太）",
+    "code": "GC711JY",
+    "type": 2,
+    "lat": 39.964865,
+    "lng": 116.367667
+  },
+  {
+    "name": "China GPS Offset",
+    "code": "GC7JGZW",
+    "type": 8,
+    "lat": 39.909033,
+    "lng": 116.391233
+  },
+  {
+    "name": "Zhihua Temple 智化寺",
+    "code": "GC7J5G4",
+    "type": 2,
+    "lat": 39.916767,
+    "lng": 116.426217
+  },
+  {
+    "name": "yuan da du yi zhi park(元大都遗址公园)",
+    "code": "GC584AG",
+    "type": 2,
+    "lat": 39.974407,
+    "lng": 116.383418
+  },
+  {
+    "name": "北京法国文化中心",
+    "code": "GC62BE1",
+    "type": 8,
+    "lat": 39.907367,
+    "lng": 116.39125
+  },
+  {
+    "name": "Outside Your Hotel: 02# Basketball Match",
+    "code": "GC5Z5MX",
+    "type": 2,
+    "lat": 39.95795,
+    "lng": 116.436867
+  },
+  {
+    "name": "正义路",
+    "code": "GC8A5EG",
+    "type": 8,
+    "lat": 39.9065,
+    "lng": 116.400417
+  },
+  {
+    "name": "Big Dipper ε -- 北斗七星之玉衡",
+    "code": "GC6Y9E9",
+    "type": 8,
+    "lat": 39.972167,
+    "lng": 116.373367
+  },
+  {
+    "name": "I like Huabiao 华表 - GE10",
+    "code": "GC7JBD2",
+    "type": 137,
+    "lat": 39.90655,
+    "lng": 116.390667
+  },
+  {
+    "name": "Germany meets Peking / China",
+    "code": "GCB5R11",
+    "type": 6,
+    "lat": 39.906533,
+    "lng": 116.390417
+  },
+  {
+    "name": "3rd Ring",
+    "code": "GC3TZJ5",
+    "type": 2,
+    "lat": 39.968533,
+    "lng": 116.427383
+  },
+  {
+    "name": "Big Dipper ζ -- 北斗七星之开阳",
+    "code": "GC71BNB",
+    "type": 8,
+    "lat": 39.973233,
+    "lng": 116.372683
+  },
+  {
+    "name": "Under the bridge #8",
+    "code": "GC6RCWV",
+    "type": 8,
+    "lat": 39.939933,
+    "lng": 116.445933
+  },
+  {
+    "name": "Tiananmen",
+    "code": "GCA209",
+    "type": 4,
+    "lat": 39.903967,
+    "lng": 116.391383
+  },
+  {
+    "name": "Big Dipper η -- 北斗七星之瑶光",
+    "code": "GC717T8",
+    "type": 8,
+    "lat": 39.975133,
+    "lng": 116.373333
+  },
+  {
+    "name": "CACHE IN THE BOX",
+    "code": "GCB3ETA",
+    "type": 2,
+    "lat": 39.9214,
+    "lng": 116.438783
+  },
+  {
+    "name": "元大都遗址公园7号地",
+    "code": "GC9AR28",
+    "type": 2,
+    "lat": 39.974767,
+    "lng": 116.421167
+  },
+  {
+    "name": "Next Stop Dongdan 下站东单",
+    "code": "GCB6AG5",
+    "type": 2,
+    "lat": 39.904917,
+    "lng": 116.410683
+  },
+  {
+    "name": "Big Tree",
+    "code": "GC9NB1R",
+    "type": 8,
+    "lat": 39.97335,
+    "lng": 116.368483
+  },
+  {
+    "name": "Dongcheng #7",
+    "code": "GC6R3J0",
+    "type": 8,
+    "lat": 39.94895,
+    "lng": 116.445933
+  },
+  {
+    "name": "No Hints",
+    "code": "GC80YRP",
+    "type": 8,
+    "lat": 39.903183,
+    "lng": 116.391417
+  },
+  {
+    "name": "River at the Corner - 转角遇到河",
+    "code": "GCAVWN8",
+    "type": 2,
+    "lat": 39.9491,
+    "lng": 116.3455
+  },
+  {
+    "name": "Sleepless Nights in Sanlitun",
+    "code": "GCAMQ8A",
+    "type": 3,
+    "lat": 39.933533,
+    "lng": 116.4482
+  },
+  {
+    "name": "Old Legation Quarter 东交民巷",
+    "code": "GC7CJTC",
+    "type": 2,
+    "lat": 39.901217,
+    "lng": 116.402783
+  },
+  {
+    "name": "元大都遗址公园东门",
+    "code": "GC9AR2G",
+    "type": 2,
+    "lat": 39.974933,
+    "lng": 116.4274
+  },
+  {
+    "name": "Temple of the Sun - The Sycamore 悬铃木",
+    "code": "GCB3GXA",
+    "type": 2,
+    "lat": 39.914917,
+    "lng": 116.43695
+  },
+  {
+    "name": "元大都城垣遗址公园 Yuan Dynasty City Wall Relics Park",
+    "code": "GC774Q1",
+    "type": 2,
+    "lat": 39.973817,
+    "lng": 116.3613
+  },
+  {
+    "name": "Pi Pie Party!",
+    "code": "GCAMR46",
+    "type": 8,
+    "lat": 39.984167,
+    "lng": 116.3946
+  },
+  {
+    "name": "Coin Collecting",
+    "code": "GC7ZYQM",
+    "type": 8,
+    "lat": 39.907133,
+    "lng": 116.42955
+  },
+  {
+    "name": "The Spy Codes",
+    "code": "GC88828",
+    "type": 8,
+    "lat": 39.907167,
+    "lng": 116.429583
+  },
+  {
+    "name": "芳草地国际学校Fang Cao Di International School",
+    "code": "GC9NKYG",
+    "type": 2,
+    "lat": 39.916383,
+    "lng": 116.442583
+  },
+  {
+    "name": "1918-2018",
+    "code": "GC7N1MR",
+    "type": 8,
+    "lat": 39.90925,
+    "lng": 116.434833
+  },
+  {
+    "name": "Yuan Dynasty City Wall Relics Park 西土城遗址公园#3",
+    "code": "GC854YF",
+    "type": 2,
+    "lat": 39.965183,
+    "lng": 116.348367
+  },
+  {
+    "name": "The accident crossroad",
+    "code": "GC7P8AH",
+    "type": 8,
+    "lat": 39.91045,
+    "lng": 116.437667
+  },
+  {
+    "name": "The remnants walls of Beijing 残存的北京城墙",
+    "code": "GC7CJQW",
+    "type": 2,
+    "lat": 39.899617,
+    "lng": 116.416
+  },
+  {
+    "name": "大都建典 - Yuan Dynasty City Wall Relics Park",
+    "code": "GC761GY",
+    "type": 2,
+    "lat": 39.974317,
+    "lng": 116.35685
+  },
+  {
+    "name": "Zhengyangmen Gate (Qianmen) 正阳门（前门）",
+    "code": "GCB8D33",
+    "type": 2,
+    "lat": 39.896783,
+    "lng": 116.391083
+  },
+  {
+    "name": "Moon Temple 月坛 1#",
+    "code": "GC7NJCE",
+    "type": 2,
+    "lat": 39.916683,
+    "lng": 116.347033
+  },
+  {
+    "name": "Exhibition backdoor gate #31",
+    "code": "GC7JCKG",
+    "type": 8,
+    "lat": 39.9374,
+    "lng": 116.45625
+  },
+  {
+    "name": "Zaoying Beili, Landmark hotel #23",
+    "code": "GC7G4D9",
+    "type": 2,
+    "lat": 39.94505,
+    "lng": 116.456317
+  },
+  {
+    "name": "北京地下城",
+    "code": "GCB1WXH",
+    "type": 2,
+    "lat": 39.89586,
+    "lng": 116.401278
+  },
+  {
+    "name": "Moon Temple 月坛 4#",
+    "code": "GC7NJEH",
+    "type": 8,
+    "lat": 39.916833,
+    "lng": 116.3461
+  },
+  {
+    "name": "Chongwenmen 崇文门",
+    "code": "GCB72YG",
+    "type": 2,
+    "lat": 39.89575,
+    "lng": 116.40985
+  },
+  {
+    "name": "惠新东街 Huixin East Street",
+    "code": "GCB830F",
+    "type": 2,
+    "lat": 39.986617,
+    "lng": 116.418117
+  },
+  {
+    "name": "Place near the Place",
+    "code": "GC285W2",
+    "type": 2,
+    "lat": 39.914817,
+    "lng": 116.448467
+  },
+  {
+    "name": "大运河第一闸--大通闸",
+    "code": "GCB2QE6",
+    "type": 2,
+    "lat": 39.9017466666667,
+    "lng": 116.43149
+  },
+  {
+    "name": "北京明城墙遗址公园 Beijing Ming City Wall Ruins Park",
+    "code": "GC774PN",
+    "type": 2,
+    "lat": 39.90025,
+    "lng": 116.4284
+  },
+  {
+    "name": "Sanlihe Park 三里河公园",
+    "code": "GCB4HFT",
+    "type": 2,
+    "lat": 39.893433,
+    "lng": 116.397267
+  },
+  {
+    "name": "Moon Temple 月坛 3#",
+    "code": "GC7NJD8",
+    "type": 2,
+    "lat": 39.9138,
+    "lng": 116.34475
+  },
+  {
+    "name": "CBD历史文化公园",
+    "code": "GC9NKYV",
+    "type": 2,
+    "lat": 39.915487,
+    "lng": 116.450377
+  },
+  {
+    "name": "太阳宫公园TaiYangGong Park",
+    "code": "GC9AR10",
+    "type": 2,
+    "lat": 39.972417,
+    "lng": 116.4471
+  },
+  {
+    "name": "大通滨河公园",
+    "code": "GCA5A0N",
+    "type": 2,
+    "lat": 39.900887,
+    "lng": 116.433082
+  },
+  {
+    "name": "Yuan Dynasty City Wall Relics Park 西土城遗址公园#1",
+    "code": "GC761HN",
+    "type": 2,
+    "lat": 39.973833,
+    "lng": 116.347583
+  },
+  {
+    "name": "农展馆内In the Agricultural Exhibition Center",
+    "code": "GC9KVCM",
+    "type": 2,
+    "lat": 39.938885,
+    "lng": 116.461678
+  },
+  {
+    "name": "Taiyanggong Park #9",
+    "code": "GC6RR38",
+    "type": 8,
+    "lat": 39.972867,
+    "lng": 116.44745
+  },
+  {
+    "name": "魔女結界/Witches Labyrinth#2",
+    "code": "GCB7E5Z",
+    "type": 8,
+    "lat": 39.891667,
+    "lng": 116.401667
+  },
+  {
+    "name": "Tuanjiehu Lu #33",
+    "code": "GC7JJJM",
+    "type": 2,
+    "lat": 39.929667,
+    "lng": 116.4607
+  },
+  {
+    "name": "东便门角楼映秀公园Jiaolou Yingxiu Park",
+    "code": "GC94B7X",
+    "type": 2,
+    "lat": 39.8992,
+    "lng": 116.4334
+  },
+  {
+    "name": "Anhuili District 1 - 安慧里一区",
+    "code": "GCAJNF8",
+    "type": 2,
+    "lat": 39.992717,
+    "lng": 116.407817
+  },
+  {
+    "name": "国贸三期World Trade Center Tower 3",
+    "code": "GC9NKYZ",
+    "type": 2,
+    "lat": 39.91065,
+    "lng": 116.450933
+  },
+  {
+    "name": "Battery",
+    "code": "GC9NM02",
+    "type": 2,
+    "lat": 39.90285,
+    "lng": 116.442083
+  },
+  {
+    "name": "Taiyanggong Park /mystery #10",
+    "code": "GC6RR4T",
+    "type": 8,
+    "lat": 39.9778,
+    "lng": 116.445933
+  },
+  {
+    "name": "Zaoying Nanli, sign #26",
+    "code": "GC7G4G5",
+    "type": 2,
+    "lat": 39.939633,
+    "lng": 116.464883
+  },
+  {
+    "name": "Zaoying Beili, Chaoyang Playground #18",
+    "code": "GC7G4C7",
+    "type": 2,
+    "lat": 39.945117,
+    "lng": 116.465367
+  },
+  {
+    "name": "Boya Garden #30",
+    "code": "GC7G49P",
+    "type": 8,
+    "lat": 39.9346,
+    "lng": 116.465417
+  },
+  {
+    "name": "铁路通道",
+    "code": "GCA5A0T",
+    "type": 2,
+    "lat": 39.9010066666667,
+    "lng": 116.442663333333
+  },
+  {
+    "name": "Stone Carving石刻艺术博物馆（五塔寺）",
+    "code": "GC6AX9W",
+    "type": 2,
+    "lat": 39.94315,
+    "lng": 116.324716666667
+  },
+  {
+    "name": "BJ#B1 - GeoArt",
+    "code": "GC6YTNJ",
+    "type": 8,
+    "lat": 39.983283,
+    "lng": 116.445117
+  },
+  {
+    "name": "CBD城市森林公园",
+    "code": "GCB2QE1",
+    "type": 2,
+    "lat": 39.904067,
+    "lng": 116.450567
+  },
+  {
+    "name": "Art of Bell casting",
+    "code": "GC6W9CB",
+    "type": 8,
+    "lat": 39.967083,
+    "lng": 116.331833
+  },
+  {
+    "name": "Nothing is Everything #1",
+    "code": "GCAK09A",
+    "type": 8,
+    "lat": 39.9975,
+    "lng": 116.389167
+  },
+  {
+    "name": "平房夹道",
+    "code": "GC9NKZP",
+    "type": 2,
+    "lat": 39.896633,
+    "lng": 116.4407
+  },
+  {
+    "name": "满目金黄耀京城 Golden Beijing 1＃",
+    "code": "GC6WH7E",
+    "type": 2,
+    "lat": 39.921383,
+    "lng": 116.328167
+  },
+  {
+    "name": "Bell chiming - Y#81-Dazhongsi Museum（大钟寺博物馆）",
+    "code": "GC5A7MP",
+    "type": 2,
+    "lat": 39.968383,
+    "lng": 116.331717
+  },
+  {
+    "name": "Bird's Nest  鸟巢",
+    "code": "GC6ZVR2",
+    "type": 8,
+    "lat": 39.997917,
+    "lng": 116.385
+  },
+  {
+    "name": "BJ#B21 – GeoArt",
+    "code": "GC76B45",
+    "type": 8,
+    "lat": 39.983283,
+    "lng": 116.447433
+  },
+  {
+    "name": "BJ#B2 - GeoArt",
+    "code": "GC6YTP0",
+    "type": 8,
+    "lat": 39.984717,
+    "lng": 116.445417
+  },
+  {
+    "name": "GeoArt-6# in CYP",
+    "code": "GC5V0CJ",
+    "type": 8,
+    "lat": 39.943667,
+    "lng": 116.4717
+  },
+  {
+    "name": "Siyuan Bridge - Y#97",
+    "code": "GC5FJY9",
+    "type": 2,
+    "lat": 39.968767,
+    "lng": 116.4622
+  },
+  {
+    "name": "The Arboretum 科普园",
+    "code": "GCB2KTK",
+    "type": 2,
+    "lat": 39.884533,
+    "lng": 116.4013
+  },
+  {
+    "name": "Beijing Huiwen Middle School 北京汇文中学",
+    "code": "GCB4JKQ",
+    "type": 2,
+    "lat": 39.889633,
+    "lng": 116.428217
+  },
+  {
+    "name": "广阳谷城市森林",
+    "code": "GCAEJ39",
+    "type": 2,
+    "lat": 39.889,
+    "lng": 116.36675
+  },
+  {
+    "name": "KillerSudoku#1-Y#57",
+    "code": "GC567YM",
+    "type": 8,
+    "lat": 39.96435,
+    "lng": 116.465567
+  },
+  {
+    "name": "Speeding Ticket",
+    "code": "GC7AJYN",
+    "type": 8,
+    "lat": 39.891717,
+    "lng": 116.434133
+  },
+  {
+    "name": "法华寺HaHua Temple",
+    "code": "GC94KCZ",
+    "type": 2,
+    "lat": 39.886167,
+    "lng": 116.418233
+  },
+  {
+    "name": "under small bridge",
+    "code": "GC9AR16",
+    "type": 2,
+    "lat": 39.968183,
+    "lng": 116.46395
+  },
+  {
+    "name": "满目金黄耀京城 Golden Beijing 2＃",
+    "code": "GC6WH6X",
+    "type": 2,
+    "lat": 39.9172,
+    "lng": 116.328183
+  },
+  {
+    "name": "通惠河畔",
+    "code": "GC9PF4Y",
+    "type": 2,
+    "lat": 39.902217,
+    "lng": 116.452417
+  },
+  {
+    "name": "BJ#B20 – GeoArt",
+    "code": "GC76B38",
+    "type": 8,
+    "lat": 39.983283,
+    "lng": 116.44975
+  },
+  {
+    "name": "BJ#B3 - GeoArt",
+    "code": "GC6YTPC",
+    "type": 8,
+    "lat": 39.98615,
+    "lng": 116.445717
+  },
+  {
+    "name": "GeoArt-17# in CYP Reload",
+    "code": "GCANE9D",
+    "type": 8,
+    "lat": 39.93965,
+    "lng": 116.473917
+  },
+  {
+    "name": "HongQiao 红桥",
+    "code": "GCB4PHB",
+    "type": 2,
+    "lat": 39.884617,
+    "lng": 116.414133
+  },
+  {
+    "name": "Shuiduizi Beili 1 #39",
+    "code": "GC7JKHC",
+    "type": 2,
+    "lat": 39.9296,
+    "lng": 116.47165
+  },
+  {
+    "name": "广渠门",
+    "code": "GC9BN0D",
+    "type": 2,
+    "lat": 39.891933,
+    "lng": 116.437683
+  },
+  {
+    "name": "GeoArt-7#  in CYP",
+    "code": "GC5V0CR",
+    "type": 8,
+    "lat": 39.944167,
+    "lng": 116.473533
+  },
+  {
+    "name": "宣武艺园",
+    "code": "GCAEWCR",
+    "type": 2,
+    "lat": 39.893517,
+    "lng": 116.352133
+  },
+  {
+    "name": "Temple of heaven 天坛",
+    "code": "GCB1MVR",
+    "type": 2,
+    "lat": 39.883117,
+    "lng": 116.408267
+  },
+  {
+    "name": "GeoArt-26#  in CYP",
+    "code": "GC5V5CA",
+    "type": 8,
+    "lat": 39.949633,
+    "lng": 116.47335
+  },
+  {
+    "name": "Blå och Gul",
+    "code": "GC72QGF",
+    "type": 2,
+    "lat": 39.97615,
+    "lng": 116.459717
+  },
+  {
+    "name": "BJ_#4 - 4th Ring Road #6",
+    "code": "GC6Q1RK",
+    "type": 8,
+    "lat": 39.9875833333333,
+    "lng": 116.446016666667
+  },
+  {
+    "name": "Steps of Beijing's history",
+    "code": "GC691R6",
+    "type": 3,
+    "lat": 39.905583,
+    "lng": 116.335
+  },
+  {
+    "name": "Dajixiang 大吉巷",
+    "code": "GCB7VBG",
+    "type": 2,
+    "lat": 39.8855,
+    "lng": 116.370917
+  },
+  {
+    "name": "BJ#B19 – GeoArt",
+    "code": "GC76B25",
+    "type": 8,
+    "lat": 39.9842,
+    "lng": 116.451233
+  },
+  {
+    "name": "Temple of Heaven-East Gate 天坛东门",
+    "code": "GCB4R6W",
+    "type": 2,
+    "lat": 39.883,
+    "lng": 116.410717
+  },
+  {
+    "name": "Green Park",
+    "code": "GC52Q2K",
+    "type": 2,
+    "lat": 39.983033,
+    "lng": 116.340633
+  },
+  {
+    "name": "Dozens of Pies",
+    "code": "GC721K1",
+    "type": 8,
+    "lat": 39.88225,
+    "lng": 116.406617
+  },
+  {
+    "name": "Totem of life",
+    "code": "GCAFYP0",
+    "type": 2,
+    "lat": 40.00135,
+    "lng": 116.390117
+  },
+  {
+    "name": "GeoArt-2#  in CYP",
+    "code": "GC5V0AY",
+    "type": 8,
+    "lat": 39.94605,
+    "lng": 116.474633
+  },
+  {
+    "name": "Double-Ring-Shaped Longevity Pavilion 双环万寿亭",
+    "code": "GCB28DW",
+    "type": 2,
+    "lat": 39.8818,
+    "lng": 116.400883
+  },
+  {
+    "name": "Take a rest in bamboo",
+    "code": "GC6GZ6Z",
+    "type": 2,
+    "lat": 39.9382,
+    "lng": 116.318516666667
+  },
+  {
+    "name": "Logic Puzzles-2-Star Battle",
+    "code": "GCB42M7",
+    "type": 8,
+    "lat": 39.883417,
+    "lng": 116.416833
+  },
+  {
+    "name": "GeoArt-3# in CYP Reload",
+    "code": "GCANE8W",
+    "type": 8,
+    "lat": 39.944617,
+    "lng": 116.4753
+  },
+  {
+    "name": "Petrified in Beijing (Earthcache)",
+    "code": "GC1RHYW",
+    "type": 137,
+    "lat": 39.881167,
+    "lng": 116.393167
+  },
+  {
+    "name": "GeoArt-27# in CYP Reload",
+    "code": "GCANE9N",
+    "type": 8,
+    "lat": 39.9498,
+    "lng": 116.475317
+  },
+  {
+    "name": "GeoArt-4# in CYP Reload",
+    "code": "GCANE8X",
+    "type": 8,
+    "lat": 39.9433,
+    "lng": 116.475967
+  },
+  {
+    "name": "夕照寺XiZhao Temple",
+    "code": "GC9NKZH",
+    "type": 2,
+    "lat": 39.887893,
+    "lng": 116.433455
+  },
+  {
+    "name": "GeoArt-16# in CYP Reload",
+    "code": "GCANE9C",
+    "type": 8,
+    "lat": 39.9395,
+    "lng": 116.475917
+  },
+  {
+    "name": "BJ#B18 – GeoArt",
+    "code": "GC76B18",
+    "type": 8,
+    "lat": 39.9856,
+    "lng": 116.4518
+  },
+  {
+    "name": "永定河引水渠南段8#-白云路",
+    "code": "GC95QZF",
+    "type": 2,
+    "lat": 39.90115,
+    "lng": 116.337333
+  },
+  {
+    "name": "BJ#B5 - GeoArt",
+    "code": "GC6YTPY",
+    "type": 8,
+    "lat": 39.989267,
+    "lng": 116.446367
+  },
+  {
+    "name": "BJ#J22 – GeoArt",
+    "code": "GC788CP",
+    "type": 8,
+    "lat": 39.9842,
+    "lng": 116.453567
+  },
+  {
+    "name": "Tonghui Canal",
+    "code": "GC5W0VQ",
+    "type": 8,
+    "lat": 39.902667,
+    "lng": 116.457867
+  },
+  {
+    "name": "Logic Puzzles-4-北京",
+    "code": "GCB46YQ",
+    "type": 8,
+    "lat": 39.883417,
+    "lng": 116.420667
+  },
+  {
+    "name": "天宁寺桥",
+    "code": "GC9BN0X",
+    "type": 2,
+    "lat": 39.8967,
+    "lng": 116.342867
+  },
+  {
+    "name": "GeoArt-5#  in CYP",
+    "code": "GC5V0C5",
+    "type": 8,
+    "lat": 39.941933,
+    "lng": 116.4767
+  },
+  {
+    "name": "BJ#J23 - GeoArt",
+    "code": "GC788DM",
+    "type": 8,
+    "lat": 39.983283,
+    "lng": 116.45505
+  },
+  {
+    "name": "GeoArt-24#  in CYP",
+    "code": "GC5V590",
+    "type": 8,
+    "lat": 39.94795,
+    "lng": 116.470083
+  },
+  {
+    "name": "\"Light\"",
+    "code": "GC6PQRG",
+    "type": 2,
+    "lat": 39.9537,
+    "lng": 116.475283333333
+  },
+  {
+    "name": "Logic Puzzles-5-Trine Sudoku-三位一体",
+    "code": "GCB4895",
+    "type": 8,
+    "lat": 39.883417,
+    "lng": 116.4225
+  },
+  {
+    "name": "Red Theatre 红剧场",
+    "code": "GCB8KXD",
+    "type": 2,
+    "lat": 39.884083,
+    "lng": 116.42535
+  },
+  {
+    "name": "永定河引水渠南段5#-木樨地北",
+    "code": "GC95F8K",
+    "type": 2,
+    "lat": 39.91025,
+    "lng": 116.327483
+  },
+  {
+    "name": "魔女結界/Witches Labyrinth#3",
+    "code": "GCB781R",
+    "type": 8,
+    "lat": 39.88,
+    "lng": 116.3925
+  },
+  {
+    "name": "Chaoyang Park Road #40",
+    "code": "GC7JKHG",
+    "type": 2,
+    "lat": 39.930917,
+    "lng": 116.47615
+  },
+  {
+    "name": "BJ#B17 – GeoArt",
+    "code": "GC7405Q",
+    "type": 8,
+    "lat": 39.987067,
+    "lng": 116.45175
+  },
+  {
+    "name": "Jiuxianqiao - Side park#3 酒仙桥 - 四得公园#3",
+    "code": "GC7JV10",
+    "type": 2,
+    "lat": 39.968767,
+    "lng": 116.469567
+  },
+  {
+    "name": "Beijing Tianqiao Performing Arts Center 北京天桥艺术中心",
+    "code": "GCB8P8E",
+    "type": 2,
+    "lat": 39.8796,
+    "lng": 116.391867
+  },
+  {
+    "name": "GeoArt-8#  in CYP",
+    "code": "GC5V0D2",
+    "type": 8,
+    "lat": 39.94525,
+    "lng": 116.4774
+  },
+  {
+    "name": "BJ#J24 - GeoArt",
+    "code": "GC788EC",
+    "type": 8,
+    "lat": 39.983283,
+    "lng": 116.45695
+  },
+  {
+    "name": "GeoArt-15#  in CYP",
+    "code": "GC5V0HP",
+    "type": 8,
+    "lat": 39.93995,
+    "lng": 116.47785
+  },
+  {
+    "name": "Middle of the dragon shape water system (River)",
+    "code": "GC89FTP",
+    "type": 2,
+    "lat": 40.003611,
+    "lng": 116.389167
+  },
+  {
+    "name": "BJ#B6 - GeoArt",
+    "code": "GC6YTQV",
+    "type": 8,
+    "lat": 39.9907,
+    "lng": 116.446667
+  },
+  {
+    "name": "GeoArt-28#  in CYP",
+    "code": "GC5V5FK",
+    "type": 8,
+    "lat": 39.94975,
+    "lng": 116.477783
+  },
+  {
+    "name": "Kitty gift in the temple of heaven",
+    "code": "GC4PT96",
+    "type": 2,
+    "lat": 39.879251,
+    "lng": 116.395354
+  },
+  {
+    "name": "BJ#B15 – GeoArt",
+    "code": "GC7401T",
+    "type": 8,
+    "lat": 39.989267,
+    "lng": 116.449567
+  },
+  {
+    "name": "BJ#B16 – GeoArt",
+    "code": "GC7403J",
+    "type": 8,
+    "lat": 39.988433,
+    "lng": 116.451117
+  },
+  {
+    "name": "GeoArt-18#  in CYP",
+    "code": "GC5V0KR",
+    "type": 8,
+    "lat": 39.940267,
+    "lng": 116.472067
+  },
+  {
+    "name": "The Metamorphosis 变形记",
+    "code": "GCB5YXV",
+    "type": 8,
+    "lat": 39.880217,
+    "lng": 116.41435
+  },
+  {
+    "name": "GeoArt-23#  in CYP",
+    "code": "GC5V56C",
+    "type": 8,
+    "lat": 39.94665,
+    "lng": 116.468983
+  },
+  {
+    "name": "BJ#B7 - GeoArt",
+    "code": "GC6YTZ0",
+    "type": 8,
+    "lat": 39.992133,
+    "lng": 116.446967
+  },
+  {
+    "name": "BJ#J25 - GeoArt",
+    "code": "GC788F6",
+    "type": 8,
+    "lat": 39.9842,
+    "lng": 116.458433
+  },
+  {
+    "name": "GeoArt-14#  in CYP",
+    "code": "GC5V0H9",
+    "type": 8,
+    "lat": 39.9407,
+    "lng": 116.479583
+  },
+  {
+    "name": "京张铁路遗址公园",
+    "code": "GCAFBGB",
+    "type": 2,
+    "lat": 39.982633,
+    "lng": 116.33325
+  },
+  {
+    "name": "GeoArt-19#  in CYP",
+    "code": "GC5V0MA",
+    "type": 8,
+    "lat": 39.941017,
+    "lng": 116.470333
+  },
+  {
+    "name": "Phoenix Nirvana -Y#171",
+    "code": "GC647BH",
+    "type": 2,
+    "lat": 39.96135,
+    "lng": 116.475866666667
+  },
+  {
+    "name": "牛街礼拜寺",
+    "code": "GC9QG55",
+    "type": 2,
+    "lat": 39.884818,
+    "lng": 116.358625
+  },
+  {
+    "name": "永定河引水渠南段6#-木樨地",
+    "code": "GC95F9K",
+    "type": 2,
+    "lat": 39.904883,
+    "lng": 116.32845
+  },
+  {
+    "name": "BJ#B14 – GeoArt",
+    "code": "GC73VFE",
+    "type": 8,
+    "lat": 39.990117,
+    "lng": 116.45115
+  },
+  {
+    "name": "Temple Fayuan-法源寺",
+    "code": "GC6GEFT",
+    "type": 8,
+    "lat": 39.8828,
+    "lng": 116.363833
+  },
+  {
+    "name": "Five Giant Nails ~ Olympic Green",
+    "code": "GC46ZX9",
+    "type": 2,
+    "lat": 40.00525,
+    "lng": 116.3856
+  },
+  {
+    "name": "YuYuanTan.1",
+    "code": "GC97HVE",
+    "type": 2,
+    "lat": 39.913717,
+    "lng": 116.32135
+  },
+  {
+    "name": "先农坛",
+    "code": "GC94KE6",
+    "type": 2,
+    "lat": 39.877833,
+    "lng": 116.38765
+  },
+  {
+    "name": "永定河引水渠南段7#-基站",
+    "code": "GC95QZ9",
+    "type": 2,
+    "lat": 39.9014,
+    "lng": 116.331383
+  },
+  {
+    "name": "GeoArt-29F# in CYP",
+    "code": "GC5V5J2",
+    "type": 8,
+    "lat": 39.949117,
+    "lng": 116.479867
+  },
+  {
+    "name": "GeoArt-13#  in CYP",
+    "code": "GC5V0GV",
+    "type": 8,
+    "lat": 39.941867,
+    "lng": 116.48105
+  },
+  {
+    "name": "BJ#B8 - GeoArt",
+    "code": "GC7132J",
+    "type": 8,
+    "lat": 39.993567,
+    "lng": 116.447267
+  },
+  {
+    "name": "BJ#J26 - GeoArt",
+    "code": "GC7994A",
+    "type": 8,
+    "lat": 39.985733,
+    "lng": 116.45875
+  },
+  {
+    "name": "广安门滨河公园GuangAnMen Riverside park",
+    "code": "GC96DW1",
+    "type": 2,
+    "lat": 39.8916,
+    "lng": 116.342817
+  },
+  {
+    "name": "Something from Nothing 2",
+    "code": "GCB806B",
+    "type": 8,
+    "lat": 39.87715,
+    "lng": 116.406917
+  },
+  {
+    "name": "GeoArt-11#  in CYP",
+    "code": "GC5V0FV",
+    "type": 8,
+    "lat": 39.944833,
+    "lng": 116.48205
+  },
+  {
+    "name": "GeoArt-10#  in CYP",
+    "code": "GC5V0DG",
+    "type": 8,
+    "lat": 39.94635,
+    "lng": 116.481467
+  },
+  {
+    "name": "old Locust Tree老槐树",
+    "code": "GC9CA0M",
+    "type": 8,
+    "lat": 39.891733,
+    "lng": 116.451533
+  },
+  {
+    "name": "BJ#B13 - GeoArt",
+    "code": "GC73TDP",
+    "type": 8,
+    "lat": 39.99145,
+    "lng": 116.451933
+  },
+  {
+    "name": "GeoArt-12#  in CYP",
+    "code": "GC5V0G9",
+    "type": 8,
+    "lat": 39.943217,
+    "lng": 116.481917
+  },
+  {
+    "name": "YuYuanTan-Y#2-Donghu",
+    "code": "GC4QCN0",
+    "type": 2,
+    "lat": 39.914067,
+    "lng": 116.319517
+  },
+  {
+    "name": "GeoArt-21#  in CYP",
+    "code": "GC5V27Y",
+    "type": 8,
+    "lat": 39.943617,
+    "lng": 116.468817
+  },
+  {
+    "name": "Beijing Subway，Line14 : Dongfengbeiqiao Station",
+    "code": "GC647CX",
+    "type": 2,
+    "lat": 39.957767,
+    "lng": 116.47945
+  },
+  {
+    "name": "GeoCaptcha",
+    "code": "GC7VN19",
+    "type": 8,
+    "lat": 39.876083,
+    "lng": 116.4008
+  },
+  {
+    "name": "天宁寺塔TianNingSi Tower",
+    "code": "GC96DPY",
+    "type": 2,
+    "lat": 39.892783,
+    "lng": 116.3396
+  },
+  {
+    "name": "TongHuiHe River 通惠河",
+    "code": "GC83M7C",
+    "type": 2,
+    "lat": 39.9034,
+    "lng": 116.466333
+  },
+  {
+    "name": "Zima Blue",
+    "code": "GCB6A3Y",
+    "type": 8,
+    "lat": 39.878983,
+    "lng": 116.42275
+  },
+  {
+    "name": "BJ#J27 - GeoArt",
+    "code": "GC7994Z",
+    "type": 8,
+    "lat": 39.987267,
+    "lng": 116.459067
+  },
+  {
+    "name": "North Central Axis Scenic Avenue 北中轴景观大道",
+    "code": "GCB8RHK",
+    "type": 2,
+    "lat": 40.007317,
+    "lng": 116.386783
+  },
+  {
+    "name": "BJ#B9 - GeoArt",
+    "code": "GC71GXR",
+    "type": 8,
+    "lat": 39.995,
+    "lng": 116.447567
+  },
+  {
+    "name": "Another bricks in the wall",
+    "code": "GCB3AQ8",
+    "type": 2,
+    "lat": 39.875583,
+    "lng": 116.399633
+  },
+  {
+    "name": "GeoArt-20#  in CYP",
+    "code": "GC5V0MW",
+    "type": 8,
+    "lat": 39.942167,
+    "lng": 116.46925
+  },
+  {
+    "name": "BJ#B12 - GeoArt",
+    "code": "GC72BAD",
+    "type": 8,
+    "lat": 39.9929,
+    "lng": 116.451767
+  },
+  {
+    "name": "Chaoyang Park #13",
+    "code": "GC6XQ3H",
+    "type": 2,
+    "lat": 39.951133,
+    "lng": 116.482633
+  },
+  {
+    "name": "&bullet;",
+    "code": "GC7X80R",
+    "type": 8,
+    "lat": 39.875583,
+    "lng": 116.40695
+  },
+  {
+    "name": "Chaoyang Park #11",
+    "code": "GC6V3N1",
+    "type": 8,
+    "lat": 39.955,
+    "lng": 116.485
+  },
+  {
+    "name": "Longtan West Lake 龙潭西湖",
+    "code": "GCB33DV",
+    "type": 2,
+    "lat": 39.8776,
+    "lng": 116.422083
+  },
+  {
+    "name": "BJ#B10 - GeoArt",
+    "code": "GC72ARE",
+    "type": 8,
+    "lat": 39.995,
+    "lng": 116.449467
+  },
+  {
+    "name": "BJ#B11 - GeoArt",
+    "code": "GC72B6E",
+    "type": 8,
+    "lat": 39.994267,
+    "lng": 116.451117
+  },
+  {
+    "name": "Longtan Central Park 龙潭中湖公园",
+    "code": "GCB201D",
+    "type": 2,
+    "lat": 39.878833,
+    "lng": 116.428233
+  },
+  {
+    "name": "BJ#J28 - GeoArt",
+    "code": "GC79955",
+    "type": 8,
+    "lat": 39.9888,
+    "lng": 116.459383
+  },
+  {
+    "name": "Yuyuantan Park-Music Zone",
+    "code": "GCB6GFE",
+    "type": 2,
+    "lat": 39.91365,
+    "lng": 116.316933
+  },
+  {
+    "name": "魔女結界/Witches Labyrinth#1",
+    "code": "GCB1NPB",
+    "type": 8,
+    "lat": 39.874667,
+    "lng": 116.386167
+  },
+  {
+    "name": "Join Geocaching trip in S.O.F.P开启奥森南园寻宝之旅-Y#130",
+    "code": "GC5T0TV",
+    "type": 2,
+    "lat": 40.008817,
+    "lng": 116.385817
+  },
+  {
+    "name": "Purple Bamboo Park (紫竹院公园)-window",
+    "code": "GC7HY0J",
+    "type": 2,
+    "lat": 39.941583,
+    "lng": 116.308483
+  },
+  {
+    "name": "永定河引水渠南段4#-水文站",
+    "code": "GC96CXR",
+    "type": 2,
+    "lat": 39.911683,
+    "lng": 116.317583
+  },
+  {
+    "name": "12km fitness programs #37 - 向左？向右？",
+    "code": "GC7D2XZ",
+    "type": 2,
+    "lat": 40.00925,
+    "lng": 116.390316666667
+  },
+  {
+    "name": "陶然亭公园 雪山 Taoranting Park#1",
+    "code": "GCAF0KE",
+    "type": 2,
+    "lat": 39.875933,
+    "lng": 116.374433
+  },
+  {
+    "name": "Fantastic Insects and Where to Find Them",
+    "code": "GCB1NNK",
+    "type": 8,
+    "lat": 39.87375,
+    "lng": 116.404666666667
+  },
+  {
+    "name": "Yuyuantan Park: Cache of twins (Blue)",
+    "code": "GC4KP1D",
+    "type": 2,
+    "lat": 39.91715,
+    "lng": 116.313483
+  },
+  {
+    "name": "北京跳伞塔",
+    "code": "GCB31CB",
+    "type": 2,
+    "lat": 39.87605,
+    "lng": 116.42245
+  },
+  {
+    "name": "Logic Puzzles-1-Kakuro",
+    "code": "GCB3ZEB",
+    "type": 8,
+    "lat": 39.883417,
+    "lng": 116.41455
+  },
+  {
+    "name": "BJ#J29 - GeoArt",
+    "code": "GC7998M",
+    "type": 8,
+    "lat": 39.990333,
+    "lng": 116.4597
+  },
+  {
+    "name": "魔女結界/Witches Labyrinth#4",
+    "code": "GCB7X7A",
+    "type": 8,
+    "lat": 39.873583,
+    "lng": 116.4071
+  },
+  {
+    "name": "Killer_Sudoku#3 - Y#87",
+    "code": "GC5GMP0",
+    "type": 8,
+    "lat": 39.973917,
+    "lng": 116.47575
+  },
+  {
+    "name": "12km fitness programs #36 - 此路不通",
+    "code": "GC7D2XJ",
+    "type": 2,
+    "lat": 40.01035,
+    "lng": 116.393383333333
+  },
+  {
+    "name": "Temple of Heaven-South Gate  天坛南门",
+    "code": "GCB4HF9",
+    "type": 2,
+    "lat": 39.8732,
+    "lng": 116.407167
+  },
+  {
+    "name": "Yuyuantan park",
+    "code": "GCAKXAA",
+    "type": 2,
+    "lat": 39.91395,
+    "lng": 116.314216666667
+  },
+  {
+    "name": "永定河引水渠南段3#-八一湖",
+    "code": "GC96CXH",
+    "type": 2,
+    "lat": 39.911833,
+    "lng": 116.31485
+  },
+  {
+    "name": "Logic Puzzles-3-Skyscrapers",
+    "code": "GCB42VT",
+    "type": 8,
+    "lat": 39.883417,
+    "lng": 116.418833
+  },
+  {
+    "name": "The water channel to the Tonghui River #1",
+    "code": "GC6KF2V",
+    "type": 8,
+    "lat": 39.921717,
+    "lng": 116.4838
+  },
+  {
+    "name": "Graffiti Wall #2",
+    "code": "GC7VBFE",
+    "type": 2,
+    "lat": 39.979633,
+    "lng": 116.472933
+  },
+  {
+    "name": "7up",
+    "code": "GCB3ZD3",
+    "type": 2,
+    "lat": 39.87515,
+    "lng": 116.4247
+  },
+  {
+    "name": "Olympic park （West）- 奥森西园2",
+    "code": "GC7N4TJ",
+    "type": 2,
+    "lat": 40.00955,
+    "lng": 116.375533
+  },
+  {
+    "name": "BJ#J30 - GeoArt",
+    "code": "GC79994",
+    "type": 8,
+    "lat": 39.991867,
+    "lng": 116.460017
+  },
+  {
+    "name": "陶然亭公园Taoranting Park#4",
+    "code": "GCAF0MW",
+    "type": 2,
+    "lat": 39.872933,
+    "lng": 116.380633
+  },
+  {
+    "name": "Yuyuantan Park-Little Bridge",
+    "code": "GCB6GF5",
+    "type": 2,
+    "lat": 39.9167,
+    "lng": 116.31155
+  },
+  {
+    "name": "What number is?",
+    "code": "GC7MJJE",
+    "type": 8,
+    "lat": 39.920833,
+    "lng": 116.48375
+  },
+  {
+    "name": "Southern Section Road Archeological Sites中轴线南段道路遗址",
+    "code": "GCB8DW6",
+    "type": 2,
+    "lat": 39.87155,
+    "lng": 116.393283
+  },
+  {
+    "name": "The Loong Character Stone Tablets 龙字石林",
+    "code": "GCB42YF",
+    "type": 2,
+    "lat": 39.8786,
+    "lng": 116.437117
+  },
+  {
+    "name": "12km fitness programs #35 - 大门边",
+    "code": "GC7D2XE",
+    "type": 2,
+    "lat": 40.012033,
+    "lng": 116.39345
+  },
+  {
+    "name": "草亭Pavilion",
+    "code": "GC9MFJK",
+    "type": 2,
+    "lat": 39.8741,
+    "lng": 116.423067
+  },
+  {
+    "name": "护城河健走步道＃3",
+    "code": "GCAEX4T",
+    "type": 2,
+    "lat": 39.88425,
+    "lng": 116.34335
+  },
+  {
+    "name": "Taoranting Park-Garden 陶然亭公园-花园",
+    "code": "GCB6XXW",
+    "type": 2,
+    "lat": 39.873483,
+    "lng": 116.372833
+  },
+  {
+    "name": "Out Of South Gate",
+    "code": "GC918PE",
+    "type": 2,
+    "lat": 39.871433,
+    "lng": 116.406383
+  },
+  {
+    "name": "高空栈桥Midair walkway",
+    "code": "GC9MFJG",
+    "type": 2,
+    "lat": 39.874937,
+    "lng": 116.426885
+  },
+  {
+    "name": "Tribute to CEV Women's Champions League",
+    "code": "GC76VGJ",
+    "type": 8,
+    "lat": 39.871017,
+    "lng": 116.393117
+  },
+  {
+    "name": "Astringent word 3#",
+    "code": "GC7ZK3M",
+    "type": 8,
+    "lat": 39.975,
+    "lng": 116.478
+  },
+  {
+    "name": "A small bottle under the gazebo bench",
+    "code": "GCB4C92",
+    "type": 2,
+    "lat": 39.8798,
+    "lng": 116.4421
+  },
+  {
+    "name": "BJ#J31 - GeoArt",
+    "code": "GC799AM",
+    "type": 8,
+    "lat": 39.993417,
+    "lng": 116.460333
+  },
+  {
+    "name": "玉蜓公园Yu Ting Park",
+    "code": "GC96DPN",
+    "type": 2,
+    "lat": 39.8718,
+    "lng": 116.414816666667
+  },
+  {
+    "name": "Nothing is here",
+    "code": "GC84513",
+    "type": 8,
+    "lat": 39.8704,
+    "lng": 116.3931
+  },
+  {
+    "name": "Yuting Park-West Gate",
+    "code": "GCB7QBJ",
+    "type": 2,
+    "lat": 39.871067,
+    "lng": 116.40965
+  },
+  {
+    "name": "12km fitness programs #additional - 图海家族墓碑刻",
+    "code": "GC7TA03",
+    "type": 2,
+    "lat": 40.010533,
+    "lng": 116.372767
+  },
+  {
+    "name": "陶然亭公园 Taoranting Park #3",
+    "code": "GCAF0MC",
+    "type": 2,
+    "lat": 39.872167,
+    "lng": 116.37555
+  },
+  {
+    "name": "Bridge#1 -- S.O.F.P",
+    "code": "GC5RGAB",
+    "type": 2,
+    "lat": 40.012983,
+    "lng": 116.389667
+  },
+  {
+    "name": "Yongdingmen Gate 永定门",
+    "code": "GCB8DW4",
+    "type": 2,
+    "lat": 39.86985,
+    "lng": 116.393583
+  },
+  {
+    "name": "1# - Exercise - Bridge of Huangzhuang - Y102#",
+    "code": "GC5QT6R",
+    "type": 2,
+    "lat": 39.975033,
+    "lng": 116.3136
+  },
+  {
+    "name": "Under the Eastway",
+    "code": "GCB41T0",
+    "type": 2,
+    "lat": 39.871217,
+    "lng": 116.416567
+  },
+  {
+    "name": "Champagne Supertower",
+    "code": "GCB5W5A",
+    "type": 8,
+    "lat": 39.875217,
+    "lng": 116.433083
+  },
+  {
+    "name": "Yuyuantan park 2",
+    "code": "GCAKXAJ",
+    "type": 2,
+    "lat": 39.916583,
+    "lng": 116.308067
+  },
+  {
+    "name": "BJ#J32 - GeoArt",
+    "code": "GC799BF",
+    "type": 8,
+    "lat": 39.995,
+    "lng": 116.46065
+  },
+  {
+    "name": "Bike, bike, bike...",
+    "code": "GC7EQ0R",
+    "type": 8,
+    "lat": 39.875683,
+    "lng": 116.436083
+  },
+  {
+    "name": "Tianyuan-天元",
+    "code": "GC5RH99",
+    "type": 2,
+    "lat": 40.0138,
+    "lng": 116.38595
+  },
+  {
+    "name": "Yuyuantan park 3",
+    "code": "GCAKXAT",
+    "type": 2,
+    "lat": 39.91325,
+    "lng": 116.308816666667
+  },
+  {
+    "name": "护城河健走步道#2",
+    "code": "GCAEX4H",
+    "type": 2,
+    "lat": 39.880983,
+    "lng": 116.3433
+  },
+  {
+    "name": "Tree support——Dragon Lake Park",
+    "code": "GC4Q9Z7",
+    "type": 2,
+    "lat": 39.875317,
+    "lng": 116.4376
+  },
+  {
+    "name": "Graffiti Wall #4 _ Y#95",
+    "code": "GC5N21V",
+    "type": 2,
+    "lat": 39.982267,
+    "lng": 116.47655
+  },
+  {
+    "name": "Olympic park （West）- 奥森西园1",
+    "code": "GC7N4TA",
+    "type": 2,
+    "lat": 40.013,
+    "lng": 116.373533
+  },
+  {
+    "name": "RUC#1--Information",
+    "code": "GC656D4",
+    "type": 2,
+    "lat": 39.969567,
+    "lng": 116.307717
+  },
+  {
+    "name": "陶然亭公园 Taoranting Park #2",
+    "code": "GCAF0KZ",
+    "type": 2,
+    "lat": 39.87055,
+    "lng": 116.371367
+  },
+  {
+    "name": "It was called  \"See Beijing\"-Y#22",
+    "code": "GC4Y4ZB",
+    "type": 2,
+    "lat": 39.9838333333333,
+    "lng": 116.476033333333
+  },
+  {
+    "name": "Treasures Behind the Tombs of Qing Dynasty Princes",
+    "code": "GCB4CGX",
+    "type": 2,
+    "lat": 39.878,
+    "lng": 116.4461
+  },
+  {
+    "name": "have a rest again",
+    "code": "GC5RH5M",
+    "type": 2,
+    "lat": 40.0152333333333,
+    "lng": 116.3848
+  },
+  {
+    "name": "12km fitness programs #33 - V",
+    "code": "GC7D2WK",
+    "type": 2,
+    "lat": 40.01585,
+    "lng": 116.39305
+  },
+  {
+    "name": "燕墩",
+    "code": "GCB3DY5",
+    "type": 2,
+    "lat": 39.8674216666667,
+    "lng": 116.392635
+  },
+  {
+    "name": "Jiuxianqiao - Dashanzi community#9 酒仙桥 - 大山子社区#9",
+    "code": "GC7PJJA",
+    "type": 2,
+    "lat": 39.98155,
+    "lng": 116.478583
+  },
+  {
+    "name": "奥森南园 - 袜湿河 “Wash” River",
+    "code": "GCB89BP",
+    "type": 2,
+    "lat": 40.015183,
+    "lng": 116.379217
+  },
+  {
+    "name": "Jiuxianqiao - Zhongbeilu community#8 酒仙桥 - 中北路社区#8",
+    "code": "GC7K27X",
+    "type": 2,
+    "lat": 39.978383,
+    "lng": 116.482117
+  },
+  {
+    "name": "12km fitness programs #07 - 又要休息？是的",
+    "code": "GC7D1BC",
+    "type": 2,
+    "lat": 40.015017,
+    "lng": 116.37545
+  },
+  {
+    "name": "护城河健走步道",
+    "code": "GCAEX4B",
+    "type": 2,
+    "lat": 39.87765,
+    "lng": 116.343483
+  },
+  {
+    "name": "永定河引水渠南段2#-三环边",
+    "code": "GC95R06",
+    "type": 2,
+    "lat": 39.9156333333333,
+    "lng": 116.303566666667
+  },
+  {
+    "name": "TusPark - 清华科技园一角",
+    "code": "GC7XJD0",
+    "type": 2,
+    "lat": 39.9934333333333,
+    "lng": 116.323733333333
+  },
+  {
+    "name": "12km fitness programs #08 - 后面有什么？",
+    "code": "GC7D1BK",
+    "type": 2,
+    "lat": 40.016533,
+    "lng": 116.374467
+  },
+  {
+    "name": "No Smoking",
+    "code": "GC6FTKM",
+    "type": 2,
+    "lat": 40.018467,
+    "lng": 116.390917
+  },
+  {
+    "name": "olympic forest park",
+    "code": "GC4B2P6",
+    "type": 2,
+    "lat": 40.017777,
+    "lng": 116.382163
+  },
+  {
+    "name": "TSS",
+    "code": "GC8HDQ7",
+    "type": 8,
+    "lat": 39.870583,
+    "lng": 116.436917
+  },
+  {
+    "name": "左安门角楼ZuoAnMen turret",
+    "code": "GC94B8E",
+    "type": 2,
+    "lat": 39.870317,
+    "lng": 116.436833
+  },
+  {
+    "name": "Central TV Tower-Y#4",
+    "code": "GC4QXA0",
+    "type": 2,
+    "lat": 39.918,
+    "lng": 116.299683
+  },
+  {
+    "name": "Souvenir for event GC72JNA",
+    "code": "GC745MN",
+    "type": 2,
+    "lat": 39.996067,
+    "lng": 116.470083
+  },
+  {
+    "name": "Allspice Court in Grand View Garden",
+    "code": "GC4G546",
+    "type": 2,
+    "lat": 39.871567,
+    "lng": 116.3508
+  },
+  {
+    "name": "An Ode to Olympic Integrity 奥运廉洁赋",
+    "code": "GCB8RKW",
+    "type": 2,
+    "lat": 40.019167,
+    "lng": 116.381217
+  },
+  {
+    "name": "14# - Exercise - On tiptoe",
+    "code": "GC7R75V",
+    "type": 2,
+    "lat": 39.976383,
+    "lng": 116.3049
+  },
+  {
+    "name": "金中都公园宣阳驿站",
+    "code": "GCAEX42",
+    "type": 2,
+    "lat": 39.874433,
+    "lng": 116.343667
+  },
+  {
+    "name": "The water channel to the Tonghui River #2",
+    "code": "GC6KF6Z",
+    "type": 8,
+    "lat": 39.921717,
+    "lng": 116.495933
+  },
+  {
+    "name": "12km fitness programs #11 - 站着不如躺着",
+    "code": "GC7D1D4",
+    "type": 2,
+    "lat": 40.02,
+    "lng": 116.385266666667
+  },
+  {
+    "name": "12# - Exercise - alley",
+    "code": "GC7MNMP",
+    "type": 2,
+    "lat": 39.971383,
+    "lng": 116.301367
+  },
+  {
+    "name": "Fangzhuang Sports Park 方庄体育公园",
+    "code": "GCB6BM7",
+    "type": 2,
+    "lat": 39.86465,
+    "lng": 116.420933
+  },
+  {
+    "name": "Spring In Winter Room in Grand View Garden",
+    "code": "GC4G57N",
+    "type": 2,
+    "lat": 39.869867,
+    "lng": 116.3506
+  },
+  {
+    "name": "Beijing subway：Line＃1 and Line＃10",
+    "code": "GC6WPYB",
+    "type": 2,
+    "lat": 39.9063666666667,
+    "lng": 116.302566666667
+  },
+  {
+    "name": "10# - Exercise - Six pipe",
+    "code": "GC5QD80",
+    "type": 2,
+    "lat": 39.977117,
+    "lng": 116.30235
+  },
+  {
+    "name": "Intersecting Bridge: Inside 45° angle under stairs",
+    "code": "GCB2QJ0",
+    "type": 2,
+    "lat": 39.9336719444444,
+    "lng": 116.291385
+  },
+  {
+    "name": "永定河引水渠南段1&-灯塔",
+    "code": "GC96543",
+    "type": 2,
+    "lat": 39.91705,
+    "lng": 116.29535
+  },
+  {
+    "name": "Da Guan Yuan (Grand View Garden)",
+    "code": "GC1JC5P",
+    "type": 2,
+    "lat": 39.86895,
+    "lng": 116.34855
+  },
+  {
+    "name": "Dream of the Red Chamber 红楼梦",
+    "code": "GC6ZZKJ",
+    "type": 8,
+    "lat": 39.868167,
+    "lng": 116.350333
+  },
+  {
+    "name": "Picturesque views-Y#100",
+    "code": "GC5Q7K7",
+    "type": 2,
+    "lat": 39.93695,
+    "lng": 116.29
+  },
+  {
+    "name": "百子湾#1 - 只劫财不劫色",
+    "code": "GCB7VBT",
+    "type": 2,
+    "lat": 39.898383,
+    "lng": 116.4874
+  },
+  {
+    "name": "12km fitness programs #14 - 禁止游泳",
+    "code": "GC7D1Q3",
+    "type": 2,
+    "lat": 40.0229833333333,
+    "lng": 116.381483333333
+  },
+  {
+    "name": "Under a Pavilion In Lotus Pond Park Reloaded",
+    "code": "GC5Z5M4",
+    "type": 2,
+    "lat": 39.8932,
+    "lng": 116.309917
+  },
+  {
+    "name": "Beijing subway：Line＃6 and Line＃10",
+    "code": "GCB18WY",
+    "type": 2,
+    "lat": 39.9335333333333,
+    "lng": 116.289483333333
+  },
+  {
+    "name": "Rocks and Math",
+    "code": "GCB2QK4",
+    "type": 8,
+    "lat": 39.9283333333333,
+    "lng": 116.29
+  },
+  {
+    "name": "小猫与燕子",
+    "code": "GC7A7W5",
+    "type": 8,
+    "lat": 39.921817,
+    "lng": 116.29165
+  },
+  {
+    "name": "12km fitness programs #16 - 此路不通",
+    "code": "GC7D1QV",
+    "type": 2,
+    "lat": 40.0226666666667,
+    "lng": 116.373116666667
+  },
+  {
+    "name": "Pagoda of Cishousi Temple 慈寿寺塔",
+    "code": "GCB0VWA",
+    "type": 2,
+    "lat": 39.9265333333333,
+    "lng": 116.290266666667
+  },
+  {
+    "name": "Delicate Park-Y#14-Locomotive（玲珑公园火车头）",
+    "code": "GC4TRV4",
+    "type": 2,
+    "lat": 39.930417,
+    "lng": 116.28925
+  },
+  {
+    "name": "Picturesque views-Y#54-KunYuHe(昆玉河)",
+    "code": "GC542QJ",
+    "type": 2,
+    "lat": 39.9522,
+    "lng": 116.2891
+  },
+  {
+    "name": "Outside Your Hotel: 04# Special One",
+    "code": "GC6Y68R",
+    "type": 2,
+    "lat": 39.896183,
+    "lng": 116.305683
+  },
+  {
+    "name": "12km fitness programs #15 - No Littering",
+    "code": "GC7D1Q9",
+    "type": 2,
+    "lat": 40.0239666666667,
+    "lng": 116.37765
+  },
+  {
+    "name": "Golden plane",
+    "code": "GCAFV9P",
+    "type": 2,
+    "lat": 40.025268,
+    "lng": 116.395217
+  },
+  {
+    "name": "金中都公园",
+    "code": "GCAEX3C",
+    "type": 2,
+    "lat": 39.8682,
+    "lng": 116.344567
+  },
+  {
+    "name": "永定河引水渠南段1#-罗道庄",
+    "code": "GCB18XG",
+    "type": 2,
+    "lat": 39.916883,
+    "lng": 116.291733
+  },
+  {
+    "name": "莲花池公园",
+    "code": "GCAEZPW",
+    "type": 2,
+    "lat": 39.8929,
+    "lng": 116.306217
+  },
+  {
+    "name": "Fung Yu-lan Former Residence",
+    "code": "GCAGYHC",
+    "type": 2,
+    "lat": 39.988117,
+    "lng": 116.30315
+  },
+  {
+    "name": "In North Olympic Forest Park #5",
+    "code": "GC5J8ZC",
+    "type": 2,
+    "lat": 40.0258833333333,
+    "lng": 116.378
+  },
+  {
+    "name": "12km fitness programs #17 - 绿“蘑菇”",
+    "code": "GC7D1R1",
+    "type": 2,
+    "lat": 40.0247666666667,
+    "lng": 116.3703
+  },
+  {
+    "name": "12km fitness programs #26 - 前进的方向",
+    "code": "GC7D1WA",
+    "type": 2,
+    "lat": 40.0270666666667,
+    "lng": 116.390966666667
+  },
+  {
+    "name": "将府公园#3",
+    "code": "GC80EMK",
+    "type": 2,
+    "lat": 39.963983,
+    "lng": 116.505
+  },
+  {
+    "name": "Round PKU 绕北大一圈-4#",
+    "code": "GC8ZWG8",
+    "type": 2,
+    "lat": 39.995233,
+    "lng": 116.308983
+  },
+  {
+    "name": "12km fitness programs #18 - 桥边",
+    "code": "GC7D1R9",
+    "type": 2,
+    "lat": 40.0265333333333,
+    "lng": 116.370583333333
+  },
+  {
+    "name": "a Request is also a Response",
+    "code": "GCB8F6Z",
+    "type": 8,
+    "lat": 39.96325,
+    "lng": 116.285183
+  },
+  {
+    "name": "Round PKU 绕北大一圈-3#",
+    "code": "GC8ZWG2",
+    "type": 2,
+    "lat": 39.998283,
+    "lng": 116.308083
+  },
+  {
+    "name": "12km fitness programs #22 - 禁止烟火",
+    "code": "GC7D1TR",
+    "type": 2,
+    "lat": 40.0293833333333,
+    "lng": 116.381316666667
+  },
+  {
+    "name": "12km fitness programs #23 - 边界",
+    "code": "GC84CQ1",
+    "type": 2,
+    "lat": 40.029833,
+    "lng": 116.384167
+  },
+  {
+    "name": "What is missing?-Y#40-Sochi",
+    "code": "GC52086",
+    "type": 8,
+    "lat": 40.028,
+    "lng": 116.368333
+  },
+  {
+    "name": "将府公园#1",
+    "code": "GC80EM9",
+    "type": 2,
+    "lat": 39.970367,
+    "lng": 116.507067
+  },
+  {
+    "name": "Round PKU 绕北大一圈-1#",
+    "code": "GC8ZWFD",
+    "type": 2,
+    "lat": 39.9907,
+    "lng": 116.29875
+  },
+  {
+    "name": "The water channel to the Tonghui River #3",
+    "code": "GC6KF9P",
+    "type": 8,
+    "lat": 39.921717,
+    "lng": 116.511767
+  },
+  {
+    "name": "My neighbor is a fake_pine-Y#23-YuanMingYuan",
+    "code": "GC4YADG",
+    "type": 2,
+    "lat": 40.0055,
+    "lng": 116.312183
+  },
+  {
+    "name": "凉水河畔(1)洋桥Liangshui River (1) Yangqiao",
+    "code": "GC954FX",
+    "type": 2,
+    "lat": 39.851133,
+    "lng": 116.3843
+  },
+  {
+    "name": "Round PKU 绕北大一圈-2#",
+    "code": "GC8ZWFR",
+    "type": 2,
+    "lat": 39.996217,
+    "lng": 116.300933
+  },
+  {
+    "name": "Wangjing Loop Greenway (朝阳区望京还录道）",
+    "code": "GC7FF4Z",
+    "type": 2,
+    "lat": 40.012683,
+    "lng": 116.474617
+  },
+  {
+    "name": "Path by Math(#1)-Y#24-YuanMingYuan",
+    "code": "GC4YPEQ",
+    "type": 2,
+    "lat": 39.999667,
+    "lng": 116.301717
+  },
+  {
+    "name": "Haidian Park: Not beside the way",
+    "code": "GC4MKT9",
+    "type": 2,
+    "lat": 39.985417,
+    "lng": 116.288717
+  },
+  {
+    "name": "Haidian Park: Across the bridge",
+    "code": "GC4MKT2",
+    "type": 2,
+    "lat": 39.987467,
+    "lng": 116.2891
+  },
+  {
+    "name": "Haidian Park: Under your foot",
+    "code": "GC4MKTG",
+    "type": 2,
+    "lat": 39.98425,
+    "lng": 116.286717
+  },
+  {
+    "name": "Special Hiden in Elegant Spring Garden",
+    "code": "GC4F8K1",
+    "type": 2,
+    "lat": 40.005017,
+    "lng": 116.305267
+  },
+  {
+    "name": "IMAGE BASE竞园",
+    "code": "GC83M77",
+    "type": 2,
+    "lat": 39.894167,
+    "lng": 116.504417
+  },
+  {
+    "name": "Rooms without walls and ceilings (Hanjingtang)",
+    "code": "GC1VDCW",
+    "type": 2,
+    "lat": 40.008533,
+    "lng": 116.3078
+  },
+  {
+    "name": "Garden of perfect splendor",
+    "code": "GC6VQ10",
+    "type": 2,
+    "lat": 40.0074666666667,
+    "lng": 116.305233333333
+  },
+  {
+    "name": "Leo",
+    "code": "GC7TJNV",
+    "type": 2,
+    "lat": 39.892117,
+    "lng": 116.504383
+  },
+  {
+    "name": "The Thin  Line",
+    "code": "GC6VMHH",
+    "type": 2,
+    "lat": 40.0125166666667,
+    "lng": 116.308983333333
+  },
+  {
+    "name": "Seven brothers tree",
+    "code": "GC6VZC0",
+    "type": 2,
+    "lat": 40.0113,
+    "lng": 116.30645
+  },
+  {
+    "name": "2# Walking around - Sealed gate - Y#166",
+    "code": "GC63W4Y",
+    "type": 2,
+    "lat": 40.0018,
+    "lng": 116.29475
+  },
+  {
+    "name": "Dashuifa&Guanshuifa (Old summer palace)",
+    "code": "GCAHG4V",
+    "type": 137,
+    "lat": 40.012162,
+    "lng": 116.306624
+  },
+  {
+    "name": "三界碑1之海-朝-昌",
+    "code": "GCAGAPJ",
+    "type": 2,
+    "lat": 40.039917,
+    "lng": 116.384533
+  },
+  {
+    "name": "Rocks#6-昆玉河边大石头系列",
+    "code": "GC6NG2F",
+    "type": 2,
+    "lat": 39.97915,
+    "lng": 116.2754
+  },
+  {
+    "name": "3# Walking around -  Abandoned stone－ Y#167",
+    "code": "GC63W53",
+    "type": 2,
+    "lat": 40.001917,
+    "lng": 116.29195
+  },
+  {
+    "name": "A-maze-ing Old Summer Palace (China)",
+    "code": "GCD01B",
+    "type": 4,
+    "lat": 40.0123,
+    "lng": 116.302233333333
+  },
+  {
+    "name": "Bonus B for 中国铁道博物馆 Lost in locomotives",
+    "code": "GC7CDMY",
+    "type": 2,
+    "lat": 39.995417,
+    "lng": 116.509383
+  },
+  {
+    "name": "凉水河畔(2)大红门桥Liangshui River (2) Dahongmen Bridge",
+    "code": "GC954G7",
+    "type": 2,
+    "lat": 39.839383,
+    "lng": 116.4014
+  },
+  {
+    "name": "中国铁道博物馆 Lost in locomotives",
+    "code": "GC7CDG8",
+    "type": 8,
+    "lat": 39.996617,
+    "lng": 116.509933
+  },
+  {
+    "name": "Bonus A for 中国铁道博物馆 Lost in locomotives",
+    "code": "GC7CDM5",
+    "type": 2,
+    "lat": 39.997761,
+    "lng": 116.50934
+  },
+  {
+    "name": "China Railway Museum 中国铁道博物馆",
+    "code": "GC7CNXQ",
+    "type": 2,
+    "lat": 39.9961,
+    "lng": 116.5112
+  },
+  {
+    "name": "4# Walking around - rest休息一下 - Y#120",
+    "code": "GC5RWVZ",
+    "type": 2,
+    "lat": 40.001583,
+    "lng": 116.286667
+  },
+  {
+    "name": "同庆街",
+    "code": "GC7750A",
+    "type": 2,
+    "lat": 39.9973,
+    "lng": 116.280433333333
+  },
+  {
+    "name": "Swastika of Buddhism 佛家万字符",
+    "code": "GC6Y2A4",
+    "type": 2,
+    "lat": 40.0059166666667,
+    "lng": 116.287233333333
+  },
+  {
+    "name": "文渊阁的残垣断壁",
+    "code": "GC75NM0",
+    "type": 2,
+    "lat": 40.0091833333333,
+    "lng": 116.290416666667
+  },
+  {
+    "name": "5# Walking around - Rest or Restroom - Y#121",
+    "code": "GC5RWW7",
+    "type": 2,
+    "lat": 40.0024,
+    "lng": 116.283567
+  },
+  {
+    "name": "Meeting at Yiheyuan",
+    "code": "GCB8BCV",
+    "type": 6,
+    "lat": 39.988667,
+    "lng": 116.27245
+  },
+  {
+    "name": "三伏三九来寻宝",
+    "code": "GC823HN",
+    "type": 2,
+    "lat": 39.989317,
+    "lng": 116.2721
+  },
+  {
+    "name": "West Causeway6＃- Willow Bridge 柳桥",
+    "code": "GC6YG18",
+    "type": 2,
+    "lat": 39.982617,
+    "lng": 116.26755
+  },
+  {
+    "name": "凉水河畔(3)桥上风景Bridge scenery",
+    "code": "GC954GB",
+    "type": 2,
+    "lat": 39.83355,
+    "lng": 116.409833333333
+  },
+  {
+    "name": "Perplexed#3",
+    "code": "GC7RMGZ",
+    "type": 8,
+    "lat": 39.922317,
+    "lng": 116.257167
+  },
+  {
+    "name": "Golden Light Piercing through the Hole 金光穿洞",
+    "code": "GCB22AF",
+    "type": 2,
+    "lat": 39.990483,
+    "lng": 116.26955
+  },
+  {
+    "name": "Riversidecache -Y#65",
+    "code": "GC5AM0J",
+    "type": 2,
+    "lat": 39.981717,
+    "lng": 116.264333
+  },
+  {
+    "name": "The Summer Palace -Y#10-Harmonious Interests（谐趣园）",
+    "code": "GC4TC3Z",
+    "type": 2,
+    "lat": 39.999733,
+    "lng": 116.276233
+  },
+  {
+    "name": "凉水河畔(4)榴乡桥Liangshui River (4) Liuxiang Bridge",
+    "code": "GC954GE",
+    "type": 2,
+    "lat": 39.833783,
+    "lng": 116.419633
+  },
+  {
+    "name": "7# Walking around - Fork三岔口 - Y#122",
+    "code": "GC5RWWJ",
+    "type": 2,
+    "lat": 40.008117,
+    "lng": 116.283217
+  },
+  {
+    "name": "The Summer Palace - An Old Spoiler",
+    "code": "GCB7R7G",
+    "type": 2,
+    "lat": 39.99645,
+    "lng": 116.273033
+  },
+  {
+    "name": "9#Walking around - Sign - Y#169",
+    "code": "GC63W5C",
+    "type": 2,
+    "lat": 40.0110833333333,
+    "lng": 116.28555
+  },
+  {
+    "name": "The Stone in the Palace",
+    "code": "GC6JVV8",
+    "type": 137,
+    "lat": 39.9972,
+    "lng": 116.27255
+  },
+  {
+    "name": "Perplexed#6",
+    "code": "GC7T86R",
+    "type": 8,
+    "lat": 39.920367,
+    "lng": 116.2557
+  },
+  {
+    "name": "The Summer Palace -Y#9-Outside JingFuGe（景福阁）",
+    "code": "GC4TC36",
+    "type": 2,
+    "lat": 39.998917,
+    "lng": 116.273683
+  },
+  {
+    "name": "东升",
+    "code": "GCB5VMN",
+    "type": 2,
+    "lat": 40.046617,
+    "lng": 116.3513
+  },
+  {
+    "name": "West Causeway5＃ - Silk Bridge 练桥",
+    "code": "GC70QA6",
+    "type": 2,
+    "lat": 39.9878166666667,
+    "lng": 116.265566666667
+  },
+  {
+    "name": "Perplexed#4",
+    "code": "GC7RPWX",
+    "type": 8,
+    "lat": 39.922317,
+    "lng": 116.25425
+  },
+  {
+    "name": "Perplexed#2",
+    "code": "GC7RCJD",
+    "type": 8,
+    "lat": 39.918417,
+    "lng": 116.254233
+  },
+  {
+    "name": "The Long Corridor 长廊",
+    "code": "GCB7R76",
+    "type": 2,
+    "lat": 39.9966,
+    "lng": 116.26885
+  },
+  {
+    "name": "Perplexed#5",
+    "code": "GC7RYFZ",
+    "type": 8,
+    "lat": 39.920367,
+    "lng": 116.252783
+  },
+  {
+    "name": "花卉大观园",
+    "code": "GCAG93B",
+    "type": 2,
+    "lat": 39.835417,
+    "lng": 116.346583
+  },
+  {
+    "name": "West Causeway4＃ - Mirror Bridge 镜桥",
+    "code": "GC6YG0P",
+    "type": 2,
+    "lat": 39.989967,
+    "lng": 116.26345
+  },
+  {
+    "name": "Waterfront greenway 南旱河滨水绿道",
+    "code": "GCB8DVN",
+    "type": 2,
+    "lat": 39.941133,
+    "lng": 116.249367
+  },
+  {
+    "name": "Perplexed#1",
+    "code": "GC7MB22",
+    "type": 8,
+    "lat": 39.922317,
+    "lng": 116.251317
+  },
+  {
+    "name": "Yihe yuan (Gardens of Nurtured Harmony)",
+    "code": "GC1TB71",
+    "type": 2,
+    "lat": 39.999267,
+    "lng": 116.269367
+  },
+  {
+    "name": "View the West Dyke - Y#62",
+    "code": "GC5AKTN",
+    "type": 2,
+    "lat": 39.985433,
+    "lng": 116.260183
+  },
+  {
+    "name": "The Treasure of Pirate Monkey",
+    "code": "GC7003W",
+    "type": 8,
+    "lat": 39.997917,
+    "lng": 116.267867
+  },
+  {
+    "name": "传说的真伪 Solve the legend of doubt - GE6",
+    "code": "GC7C9XP",
+    "type": 137,
+    "lat": 39.998483,
+    "lng": 116.267333
+  },
+  {
+    "name": "Shucun Country Park, Beijing JYGY",
+    "code": "GC3KEFJ",
+    "type": 2,
+    "lat": 40.0275,
+    "lng": 116.297467
+  },
+  {
+    "name": "廉颇老矣，尚能饭否",
+    "code": "GC7CHKY",
+    "type": 8,
+    "lat": 39.924633,
+    "lng": 116.24875
+  },
+  {
+    "name": "王国维论人生境界",
+    "code": "GC7FEW3",
+    "type": 8,
+    "lat": 39.922633,
+    "lng": 116.24875
+  },
+  {
+    "name": "遛弯路1#",
+    "code": "GC7YJP5",
+    "type": 2,
+    "lat": 39.931083,
+    "lng": 116.24715
+  },
+  {
+    "name": "但愿人长久，千里共婵娟",
+    "code": "GC7D4DR",
+    "type": 8,
+    "lat": 39.920633,
+    "lng": 116.24875
+  },
+  {
+    "name": "The Stone Boat 石舫",
+    "code": "GCB2DYM",
+    "type": 2,
+    "lat": 39.9967333333333,
+    "lng": 116.264316666667
+  },
+  {
+    "name": "遛弯路3#",
+    "code": "GC7YJP9",
+    "type": 2,
+    "lat": 39.933967,
+    "lng": 116.246267
+  },
+  {
+    "name": "恰似一江春水向东流",
+    "code": "GC7DZK1",
+    "type": 8,
+    "lat": 39.918467,
+    "lng": 116.24875
+  },
+  {
+    "name": "This place is called “God”",
+    "code": "GC306CG",
+    "type": 2,
+    "lat": 40.03335,
+    "lng": 116.304117
+  },
+  {
+    "name": "两情若是久长时，又岂在朝朝暮暮",
+    "code": "GC7E0VZ",
+    "type": 8,
+    "lat": 39.916467,
+    "lng": 116.24875
+  },
+  {
+    "name": "锦瑟无端五十弦",
+    "code": "GC7FR16",
+    "type": 8,
+    "lat": 39.922333,
+    "lng": 116.246933
+  },
+  {
+    "name": "Abandoned sluice",
+    "code": "GC6W14V",
+    "type": 2,
+    "lat": 39.9885833333333,
+    "lng": 116.255866666667
+  },
+  {
+    "name": "人约黄昏后 月上柳梢头",
+    "code": "GC7GN4W",
+    "type": 8,
+    "lat": 39.916917,
+    "lng": 116.246367
+  },
+  {
+    "name": "梅子黄时雨",
+    "code": "GC7GQYZ",
+    "type": 8,
+    "lat": 39.920083,
+    "lng": 116.245017
+  },
+  {
+    "name": "遛弯路10#",
+    "code": "GC7YMK9",
+    "type": 2,
+    "lat": 39.946017,
+    "lng": 116.242017
+  },
+  {
+    "name": "京密引水渠 玉泉山路",
+    "code": "GCAEWED",
+    "type": 2,
+    "lat": 40.00325,
+    "lng": 116.264133
+  },
+  {
+    "name": "Beiwu park－Paddy 北坞公园－稻田",
+    "code": "GC6WNJ1",
+    "type": 2,
+    "lat": 39.982667,
+    "lng": 116.251133
+  },
+  {
+    "name": "Subway Spy",
+    "code": "GC37MET",
+    "type": 2,
+    "lat": 40.060167,
+    "lng": 116.384367
+  },
+  {
+    "name": "遛弯路11#",
+    "code": "GC90VKR",
+    "type": 2,
+    "lat": 39.94825,
+    "lng": 116.241617
+  },
+  {
+    "name": "人生若只如初见",
+    "code": "GC7FJ3K",
+    "type": 8,
+    "lat": 39.917467,
+    "lng": 116.24375
+  },
+  {
+    "name": "遛弯路13#",
+    "code": "GC90VM5",
+    "type": 2,
+    "lat": 39.954467,
+    "lng": 116.2412
+  },
+  {
+    "name": "遛弯路8#",
+    "code": "GC7YMK3",
+    "type": 2,
+    "lat": 39.942667,
+    "lng": 116.24
+  },
+  {
+    "name": "遛弯路7#",
+    "code": "GC7YJPZ",
+    "type": 2,
+    "lat": 39.939967,
+    "lng": 116.239717
+  },
+  {
+    "name": "遛弯路14#",
+    "code": "GC90VM8",
+    "type": 2,
+    "lat": 39.95605,
+    "lng": 116.24055
+  },
+  {
+    "name": "遛弯路6#",
+    "code": "GC7YJPV",
+    "type": 2,
+    "lat": 39.93845,
+    "lng": 116.239367
+  },
+  {
+    "name": "Beiwu park－Hillside 北坞公园－山坡",
+    "code": "GC6WNJ7",
+    "type": 2,
+    "lat": 39.9838,
+    "lng": 116.248433
+  },
+  {
+    "name": "凉水河畔5：Red Bridge",
+    "code": "GC95D1B",
+    "type": 2,
+    "lat": 39.825067,
+    "lng": 116.440533
+  },
+  {
+    "name": "遛弯路15#",
+    "code": "GC90VMJ",
+    "type": 2,
+    "lat": 39.9583,
+    "lng": 116.239133
+  },
+  {
+    "name": "The Key to TTY",
+    "code": "GC37MED",
+    "type": 2,
+    "lat": 40.063583,
+    "lng": 116.40005
+  },
+  {
+    "name": "Beiwu park－view Yuquan Hill 北坞公园－远望玉泉山",
+    "code": "GC6WWKX",
+    "type": 2,
+    "lat": 39.98555,
+    "lng": 116.246517
+  },
+  {
+    "name": "遛弯路16#",
+    "code": "GC90VMP",
+    "type": 2,
+    "lat": 39.962017,
+    "lng": 116.237517
+  },
+  {
+    "name": "遛弯路17#",
+    "code": "GC90VMV",
+    "type": 2,
+    "lat": 39.965417,
+    "lng": 116.23625
+  },
+  {
+    "name": "School Around #2-   Haidian Kaiwen School",
+    "code": "GCAFYHK",
+    "type": 2,
+    "lat": 39.9520333333333,
+    "lng": 116.233466666667
+  },
+  {
+    "name": "小龙河畔Small Dragon River 1#",
+    "code": "GC9JZX9",
+    "type": 2,
+    "lat": 39.819061,
+    "lng": 116.436261
+  },
+  {
+    "name": "遛弯路18#",
+    "code": "GC90VMZ",
+    "type": 2,
+    "lat": 39.969017,
+    "lng": 116.2342
+  },
+  {
+    "name": "Shool Around #1-   Western Mahua Parking",
+    "code": "GCAEFBE",
+    "type": 2,
+    "lat": 39.953817,
+    "lng": 116.230367
+  },
+  {
+    "name": "Chocolate City",
+    "code": "GC3P83A",
+    "type": 2,
+    "lat": 39.816879,
+    "lng": 116.436195
+  },
+  {
+    "name": "遛弯路19#",
+    "code": "GC90VN2",
+    "type": 2,
+    "lat": 39.971683,
+    "lng": 116.2333
+  },
+  {
+    "name": "International Sculpt park-Y#20-roadside（国际雕塑公园）",
+    "code": "GC4VRXA",
+    "type": 2,
+    "lat": 39.90545,
+    "lng": 116.232933
+  },
+  {
+    "name": "Aptitude Acorn",
+    "code": "GCAM29Y",
+    "type": 2,
+    "lat": 39.88643,
+    "lng": 116.551793
+  },
+  {
+    "name": "ZPark - Beside the river （中关村软件园 - 在水一方）",
+    "code": "GC7CYYX",
+    "type": 2,
+    "lat": 40.044467,
+    "lng": 116.290033
+  },
+  {
+    "name": "小龙河畔Little Dragon River 3#",
+    "code": "GC9JZXD",
+    "type": 2,
+    "lat": 39.810879,
+    "lng": 116.414961
+  },
+  {
+    "name": "凉水河畔6：fishing",
+    "code": "GC95D1E",
+    "type": 2,
+    "lat": 39.817117,
+    "lng": 116.4529
+  },
+  {
+    "name": "ZPark - Modern circle （中关村软件园 - 现代环）",
+    "code": "GC7DG4X",
+    "type": 2,
+    "lat": 40.0468,
+    "lng": 116.291017
+  },
+  {
+    "name": "Fake-Hongbo park",
+    "code": "GC5QTGF",
+    "type": 2,
+    "lat": 39.8212333333333,
+    "lng": 116.470333333333
+  },
+  {
+    "name": "Dry lake- Hongbo park",
+    "code": "GC5QTFM",
+    "type": 2,
+    "lat": 39.819317,
+    "lng": 116.474067
+  },
+  {
+    "name": "凉水河畔7：JiuGong Bridge",
+    "code": "GC95D1M",
+    "type": 2,
+    "lat": 39.80505,
+    "lng": 116.456417
+  },
+  {
+    "name": "Rockwork——International Corporate Culture Park",
+    "code": "GC4T0VD",
+    "type": 2,
+    "lat": 39.80725,
+    "lng": 116.479967
+  },
+  {
+    "name": "Recess——International Corporate Culture Park",
+    "code": "GC7M5BP",
+    "type": 2,
+    "lat": 39.805,
+    "lng": 116.477283
+  },
+  {
+    "name": "Decathlon-International Corporate Culture Park",
+    "code": "GC5QPZM",
+    "type": 2,
+    "lat": 39.8019333333333,
+    "lng": 116.474233333333
+  },
+  {
+    "name": "Crossing-International Corporate Culture Park",
+    "code": "GC4T0VP",
+    "type": 2,
+    "lat": 39.810633,
+    "lng": 116.4865
+  },
+  {
+    "name": "Entry——International Corporate Culture Park",
+    "code": "GC7M5A6",
+    "type": 2,
+    "lat": 39.8024,
+    "lng": 116.477067
+  },
+  {
+    "name": "Bench-International Corporate Culture Park",
+    "code": "GC5QQ7N",
+    "type": 2,
+    "lat": 39.808017,
+    "lng": 116.48645
+  },
+  {
+    "name": "Eaves-International Corporate Culture Park",
+    "code": "GC5QQ6T",
+    "type": 2,
+    "lat": 39.80965,
+    "lng": 116.48875
+  },
+  {
+    "name": "The dark under the lamp——ICC Park",
+    "code": "GC7M5DA",
+    "type": 2,
+    "lat": 39.806217,
+    "lng": 116.485283
+  },
+  {
+    "name": "Chimney-International Corporate Culture Park",
+    "code": "GC5QQ48",
+    "type": 2,
+    "lat": 39.8128666666667,
+    "lng": 116.49425
+  },
+  {
+    "name": "南海子公园2#",
+    "code": "GCA2Q7Y",
+    "type": 2,
+    "lat": 39.784033,
+    "lng": 116.4605
+  },
+  {
+    "name": "南海子公园3#",
+    "code": "GCA2Q80",
+    "type": 2,
+    "lat": 39.7807,
+    "lng": 116.461217
+  },
+  {
+    "name": "凉水河畔8：YiZhuang",
+    "code": "GC9AR1Y",
+    "type": 2,
+    "lat": 39.788133,
+    "lng": 116.480183
+  },
+  {
+    "name": "萧太后河边1#",
+    "code": "GC9BRX6",
+    "type": 2,
+    "lat": 39.844367,
+    "lng": 116.5288
+  },
+  {
+    "name": "看丹公园康体健身区 - Kandan Park Exercise Area",
+    "code": "GCAZAEG",
+    "type": 2,
+    "lat": 39.828872,
+    "lng": 116.263416
+  },
+  {
+    "name": "凉水河畔9:metal railing",
+    "code": "GC9AR1K",
+    "type": 2,
+    "lat": 39.786267,
+    "lng": 116.483
+  },
+  {
+    "name": "Take Out",
+    "code": "GCAM2A9",
+    "type": 2,
+    "lat": 39.878629,
+    "lng": 116.552303
+  },
+  {
+    "name": "萧太后河边2#",
+    "code": "GC9BRXJ",
+    "type": 2,
+    "lat": 39.840333,
+    "lng": 116.549733
+  },
+  {
+    "name": "Tree Mouth",
+    "code": "GCAM2AF",
+    "type": 2,
+    "lat": 39.883702,
+    "lng": 116.554369
+  },
+  {
+    "name": "Big Boss Tree",
+    "code": "GCAM2A3",
+    "type": 2,
+    "lat": 39.887635,
+    "lng": 116.55864
+  }
+]
