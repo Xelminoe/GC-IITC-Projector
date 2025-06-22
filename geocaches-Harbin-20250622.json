@@ -1,0 +1,79 @@
+[
+  {
+    "name": "护军街 | Hujun Street",
+    "code": "GCB7HD7",
+    "type": 2,
+    "lat": 45.740012,
+    "lng": 126.62175
+  },
+  {
+    "name": "Zhongyangdajie (Central Street) - 中央大街",
+    "code": "GCAKJB7",
+    "type": 2,
+    "lat": 45.7658166666667,
+    "lng": 126.61465
+  },
+  {
+    "name": "The Steel Church of Harbin",
+    "code": "GC6QHQV",
+    "type": 2,
+    "lat": 45.768733,
+    "lng": 126.620117
+  },
+  {
+    "name": "Breakfast Street - 早餐街",
+    "code": "GCAVT61",
+    "type": 2,
+    "lat": 45.77,
+    "lng": 126.607216666667
+  },
+  {
+    "name": "Zhao Lin Park - 兆麟公园",
+    "code": "GCAVT57",
+    "type": 2,
+    "lat": 45.7741666666667,
+    "lng": 126.61755
+  },
+  {
+    "name": "Harbin Flood Control Memorial Tower - 哈尔滨防洪纪念塔",
+    "code": "GCAKJ60",
+    "type": 2,
+    "lat": 45.77805,
+    "lng": 126.611216666667
+  },
+  {
+    "name": "Dragon Tower - 龙塔",
+    "code": "GCAVTPQ",
+    "type": 2,
+    "lat": 45.74705,
+    "lng": 126.673783333333
+  },
+  {
+    "name": "Haerbin, Stalin Style (China)",
+    "code": "GCD016",
+    "type": 4,
+    "lat": 45.7785166666667,
+    "lng": 126.611366666667
+  },
+  {
+    "name": "Binzhou Railway Bridge - 滨州铁路桥",
+    "code": "GCAVM6H",
+    "type": 2,
+    "lat": 45.783333,
+    "lng": 126.61955
+  },
+  {
+    "name": "Sun Island Scenic Area - 太阳岛风景区",
+    "code": "GCAVYGN",
+    "type": 2,
+    "lat": 45.78755,
+    "lng": 126.586833
+  },
+  {
+    "name": "Cold hard cache - 冻结的地理藏宝点",
+    "code": "GCAVQ17",
+    "type": 2,
+    "lat": 45.776783,
+    "lng": 126.56105
+  }
+]
