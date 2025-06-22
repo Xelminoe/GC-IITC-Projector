@@ -39,6 +39,27 @@
         4738: 'violet', // HQ Block Party
         7005: 'violet' // Giga
     };
+    const typeTexts ={
+        2: 'Tradition',
+        3: 'Multi',
+        4: 'Virtual',
+        5: 'Letterbox Hybrid',
+        6: 'Event Cache',
+        8: 'Mystery',
+        9: 'Project A.P.E. Cache',
+        11: 'Webcam Cache',
+        12: 'Locationless Cache',
+        13: 'Cache In Trash Out® Event Cache',
+        137: 'Earth',
+        453: 'Mega-Event Cache',
+        1304: 'GPS Adventures Maze Exhibit',
+        1858: 'Wherigo',
+        3653: 'Community Celebration Event',
+        3773: 'Geocaching HQ Cache',
+        3774: 'Geocaching HQ Celebration',
+        4738: 'Geocaching HQ Block Party',
+        7005: 'Giga-Event Cache'
+    };
 
     plugin.data = [];
     plugin.layer = null;
@@ -86,6 +107,7 @@
         if (!bounds.contains(latlng)) continue;
 
         const color = typeColors[item.type];
+        const typeText = typeTexts[item.type]
 
         const marker = L.marker(latlng, {
             icon: L.icon({
@@ -97,7 +119,7 @@
                 shadowSize: [41, 41],
                 shadowAnchor: [12, 41]
             })
-        }).bindPopup(`<strong>${item.name}</strong><br>Code: ${item.code}<br>Type: ${item.type}`);
+        }).bindPopup(`<strong>${item.name}</strong><br>Code: ${item.code}<br>Type: ${typeText}`);
 
 
         plugin.layer.addLayer(marker);
