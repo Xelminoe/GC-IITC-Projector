@@ -8,6 +8,12 @@ This is an IITC plugin for projecting geocaching points from GitHub-hosted `.jso
 
 ---
 
+### ⚠️ Data Disclaimer
+The data in this repository may quickly become outdated.
+To keep your map current, it is strongly recommended that you set up your own data extraction and host your own JSON files.
+
+---
+
 ### 🌐 Why use IITC?
 
 In regions where GPS maps are offset (e.g. in China), the official Geocaching app only allows free users to use Google's default map layer, which may not be corrected for GPS offset.
