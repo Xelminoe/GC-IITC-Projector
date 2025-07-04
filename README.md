@@ -8,8 +8,6 @@ This is a pragram for scrapring and projecting geocaching points through Google 
 
 ---
 
----
-
 ### 🌐 Why use IITC?
 
 In regions where GPS maps are offset (e.g. in China), the official Geocaching app only allows free users to use Google's default map layer, which may not be corrected for GPS offset.
