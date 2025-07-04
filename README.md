@@ -1,16 +1,12 @@
-## GitHub-JSON-Projector-IITC-Indexed
+## GC-IITC-Projector
 
 ### 📍 What is this?
 
-This is an IITC plugin for projecting geocaching points from GitHub-hosted `.json` files onto the IITC map. It supports visualization with color-coded markers based on geocache type.
+This is a pragram for scrapring and projecting geocaching points through Google Spreadsheet onto the IITC map. It supports visualization with color-coded markers based on geocache type.
 
 > ⚠️ This tool is intended for personal gameplay convenience. It does **not** access or expose premium-only caches.
 
 ---
-
-### ⚠️ Data Disclaimer
-The data in this repository may quickly become outdated.
-To keep your map current, it is strongly recommended that you set up your own data extraction and host your own JSON files.
 
 ---
 
@@ -28,40 +24,73 @@ This makes it much easier to work with corrected and locally useful maps.
 
 ---
 
-### 📦 How to Extract Your Cache List
-
-You can export the first batch of caches that loaded when you open the official gc map (not ideal but functional) by opening the browser console and running the following code:
-
 ```javascript
-(() => {
-  const data = window.__NEXT_DATA__?.props?.pageProps?.searchResults?.results || [];
+function doPost(e) {
+  const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
 
-  const geocaches = data.map(r => ({
-    name: r.name,
-    code: r.code,
-    type: r.geocacheType,
-    lat: r.postedCoordinates?.latitude,
-    lng: r.postedCoordinates?.longitude
-  }));
+  let data;
+  try {
+    data = JSON.parse(e.postData.contents || '[]');
+  } catch (err) {
+    return ContentService.createTextOutput("Invalid JSON").setMimeType(ContentService.MimeType.TEXT);
+  }
 
-  const blob = new Blob([JSON.stringify(geocaches, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  if (!Array.isArray(data)) {
+    return ContentService.createTextOutput("Invalid data").setMimeType(ContentService.MimeType.TEXT);
+  }
 
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = 'geocaches.json';
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
-})();
+  // ✅ 获取现有 code（第2列）并标准化（去空格、转大写）
+  const lastRow = sheet.getLastRow();
+  const codesInSheet = lastRow >= 2
+    ? sheet.getRange(2, 2, lastRow - 1).getValues().flat()
+    : [];
+
+  const existingCodes = new Set(
+    codesInSheet.map(code => String(code).trim().toUpperCase())
+  );
+
+  const newRows = [];
+
+  for (const item of data) {
+    const rawCode = item.code;
+    if (!rawCode) continue;
+
+    const code = String(rawCode).trim().toUpperCase();
+    if (existingCodes.has(code)) continue;
+
+    existingCodes.add(code); // 避免批内重复
+    newRows.push([
+      item.name || '',
+      code,
+      item.type || '',
+      item.lat || '',
+      item.lng || '',
+      new Date().toISOString()
+    ]);
+  }
+
+  if (newRows.length > 0) {
+    sheet.getRange(sheet.getLastRow() + 1, 1, newRows.length, 6).setValues(newRows);
+  }
+
+  return ContentService.createTextOutput("OK").setMimeType(ContentService.MimeType.TEXT);
+}
+
+
+
+function doGet() {
+  const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  const values = sheet.getDataRange().getValues();
+  const headers = values.shift(); // 取第一行作为字段名
+
+  const result = values.map(row => {
+    const entry = {};
+    headers.forEach((key, i) => entry[key] = row[i]);
+    return entry;
+  });
+
+  return ContentService
+    .createTextOutput(JSON.stringify(result))
+    .setMimeType(ContentService.MimeType.JSON);
+}
 ```
-
-This will download a `geocaches.json` file containing:
-
-* Cache name
-* GC code
-* Type ID
-* Coordinates
-
-You can then add this file to your GitHub repo for visualization in IITC.
