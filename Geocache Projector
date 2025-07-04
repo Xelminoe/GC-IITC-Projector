@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         GitHub JSON Projector (IITC, Indexed)
-// @version      1.1
-// @description  Dynamically loads geocaching JSONs via GitHub index.json, projects by type.
+// @name         Geocache Projector
+// @version      1.2
+// @description  Dynamically loads geocaching JSONs via Google Spreadsheet, projects by type.
 // @category     Map Tools
 // @match        https://intel.ingress.com/*
 // @grant        none
@@ -13,10 +13,6 @@
 
     const plugin = {};
     plugin.id = 'cacheProjector';
-
-    // ✅ Set your GitHub repo base path here
-    const githubBase = 'https://raw.githubusercontent.com/Xelminoe/GitHub-JSON-Projector-IITC-Indexed/main/data/';
-    const indexFile = 'index.json'; // should return array of relative paths
 
     const typeColors = {
         2:    'green', // Traditional
@@ -40,20 +36,20 @@
         7005: 'violet' // Giga
     };
     const typeTexts ={
-        2: 'Tradition',
-        3: 'Multi',
-        4: 'Virtual',
+        2: 'Traditional Cache',
+        3: 'Multi-cache',
+        4: 'Virtual Cache',
         5: 'Letterbox Hybrid',
         6: 'Event Cache',
-        8: 'Mystery',
+        8: 'Mystery Cache',
         9: 'Project A.P.E. Cache',
         11: 'Webcam Cache',
         12: 'Locationless Cache',
         13: 'Cache In Trash Out® Event Cache',
-        137: 'Earth',
+        137: 'Earth Cache',
         453: 'Mega-Event Cache',
         1304: 'GPS Adventures Maze Exhibit',
-        1858: 'Wherigo',
+        1858: 'Wherigo Cache',
         3653: 'Community Celebration Event',
         3773: 'Geocaching HQ Cache',
         3774: 'Geocaching HQ Celebration',
@@ -64,31 +60,39 @@
     plugin.data = [];
     plugin.layer = null;
 
-    plugin.fetchAllFromIndex = async function () {
+    plugin.storageKey = 'gc_api_url';
+
+      plugin.getApiUrl = function () {
+          return localStorage.getItem(plugin.storageKey) || '';
+      };
+
+      plugin.setApiUrl = function () {
+          const current = plugin.getApiUrl();
+          const input = prompt("Enter Google Apps Script API URL", current);
+          if (input) {
+              localStorage.setItem(plugin.storageKey, input.trim());
+              alert("✅ URL saved");
+          }
+      };
+
+
+    plugin.fetchAllFromGoogle = async function () {
+      console.log(`[${plugin.id}] API URL:`, plugin.getApiUrl());
       plugin.data = [];
 
-      const indexUrl = githubBase + indexFile;
-      let fileList;
+      const url = plugin.getApiUrl();
+      if (!url) {
+          alert("❌ No API URL set.");
+          return;
+      }
+
       try {
-        const res = await fetch(indexUrl);
-        fileList = await res.json();
+        const res = await fetch(url);
+        plugin.data = await res.json();
+        console.log(`[${plugin.id}] Loaded ${plugin.data.length} items from Google Spreadsheet`);
       } catch (e) {
-        console.error(`[${plugin.id}] Failed to load index.json`, e);
-        return;
+        console.error(`[${plugin.id}] Failed to fetch from Google Apps Script`, e);
       }
-
-      for (const path of fileList) {
-        const fullUrl = githubBase + path;
-        try {
-          const res = await fetch(fullUrl);
-          const json = await res.json();
-          plugin.data.push(...json);
-        } catch (e) {
-          console.error(`[${plugin.id}] Failed to load`, fullUrl, e);
-        }
-      }
-
-      console.log(`[${plugin.id}] Loaded`, plugin.data.length, 'items from', fileList.length, 'files');
     };
 
     plugin.projectItems = async function () {
@@ -98,7 +102,7 @@
       }
       plugin.layer.clearLayers();
 
-      await plugin.fetchAllFromIndex();
+      await plugin.fetchAllFromGoogle();
       const bounds = map.getBounds();
 
       for (const item of plugin.data) {
@@ -139,14 +143,20 @@
       const toolbox = document.getElementById('toolbox');
       if (!toolbox) return;
 
+      const setUrlBtn = document.createElement('a');
+      setUrlBtn.textContent = 'GC-API-URL';
+      setUrlBtn.title = 'Set Google Script URL';
+      setUrlBtn.onclick = plugin.setApiUrl;
+      toolbox.appendChild(setUrlBtn);
+
       const projBtn = document.createElement('a');
-      projBtn.textContent = 'Project Geocaches';
+      projBtn.textContent = 'GC-Project';
       projBtn.title = 'Project items from GitHub JSON index';
       projBtn.onclick = plugin.projectItems;
       toolbox.appendChild(projBtn);
 
       const clearBtn = document.createElement('a');
-      clearBtn.textContent = 'Remove Geocaches';
+      clearBtn.textContent = 'GC-Remove';
       clearBtn.title = 'Clear projected markers';
       clearBtn.onclick = plugin.removeItems;
       toolbox.appendChild(clearBtn);
